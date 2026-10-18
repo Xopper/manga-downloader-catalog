@@ -11,6 +11,11 @@ name: Catalog
 # plugins (catalog-suwayomi.yaml) only cover the sites no row lists. Eight
 # sites at once, 20 minutes each at most.
 #
+# It also writes app/latest.json, the newest release of the app, which the
+# app's update check reads (the app's own repository is private, so GitHub's
+# releases API answers "not found" without a login). It has the API's shape:
+# {"tag_name": "v1.2.3", "assets": []}.
+#
 # `catalog crawl` exits 2 when a site failed or its old file was kept (the
 # half-size guard); what worked is still committed. The failed sites are
 # listed in the job summary, and the job goes red only when more than half
@@ -119,11 +124,27 @@ jobs:
       - name: Index and gzip
         run: bin/manga-downloader catalog index --gzip --out catalog
 
+      - name: Write the app's latest version
+        # the newest vX.Y.Z tag of the app's repository (a release's tag; a
+        # pre-release's -rc suffix is left out), through the checkout's key
+        run: |
+          tag=$(git -C code ls-remote --tags --refs origin 'v*' \
+            | sed 's#.*refs/tags/##' \
+            | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' \
+            | sort -V | tail -n 1)
+          if [ -z "$tag" ]; then
+            echo "::warning::no vX.Y.Z tag found; app/latest.json left as it is"
+            exit 0
+          fi
+          mkdir -p app
+          printf '{"tag_name": "%s", "assets": []}\n' "$tag" > app/latest.json
+          echo "app/latest.json: $tag"
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A catalog
+          git add -A catalog app
           if git diff --cached --quiet; then
             echo "no change"
             exit 0

@@ -16,6 +16,11 @@ crawlers of [Xopper/manga-downloader](https://github.com/Xopper/manga-downloader
 - `catalog-suwayomi.yaml`: the Tachiyomi plugins, on Sunday, only for the
   sites our crawlers can't list.
 
+`app/latest.json` is the app's newest release (`{"tag_name": "v1.2.3",
+"assets": []}`, the GitHub releases API's shape). The app's update check reads
+it, since the app's own repository is private; `catalog.yaml` rewrites it every
+night from that repository's newest `vX.Y.Z` tag.
+
 Both check the code out with the `CODE_SSH_KEY` secret: the private half of
 a deploy key registered read-only on `Xopper/manga-downloader` (its Settings
 → Deploy keys), set in this repository's Settings → Secrets and variables →
