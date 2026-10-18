@@ -1,0 +1,143 @@
+name: Catalog
+
+# Rebuilds the sites' catalogs (title + series URL) with the crawlers of
+# Xopper/manga-downloader (private; checked out with the CODE_TOKEN secret,
+# a fine-grained token with read access to its contents) and commits the
+# files under catalog/ on main, where the app downloads them from.
+#
+# Two schedules: every night the fast families (a sitemap or a list API is a
+# handful of requests per site), and on Sunday every family, the spider and
+# the page-by-page lists included (hundreds of pages per site). The Tachiyomi
+# plugins (catalog-suwayomi.yaml) only cover the sites no row lists. Eight
+# sites at once, 20 minutes each at most.
+#
+# `catalog crawl` exits 2 when a site failed or its old file was kept (the
+# half-size guard); what worked is still committed. The failed sites are
+# listed in the job summary, and the job goes red only when more than half
+# of the sites failed (the sites' markup drifting one by one is normal).
+on:
+  schedule:
+    # nightly: the fast families
+    - cron: "17 3 * * 1-6"
+    # Sunday: every family
+    - cron: "17 3 * * 0"
+  workflow_dispatch:
+    inputs:
+      families:
+        description: "Crawler families to run, comma separated (empty: all)"
+        default: ""
+      site:
+        description: "One site only (its domain)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out the crawlers
+        uses: actions/checkout@v4
+        with:
+          repository: Xopper/manga-downloader
+          ref: master
+          token: ${{ secrets.CODE_TOKEN }}
+          path: code
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.26"
+          cache-dependency-path: code/go.sum
+
+      - name: Build
+        run: cd code && go build -o ../bin/manga-downloader .
+
+      - name: Crawl
+        id: crawl
+        run: |
+          set +e
+          mkdir -p catalog
+          # the nightly run leaves the slow families to Sunday
+          families="${{ github.event.inputs.families }}"
+          if [ "${{ github.event_name }}" = schedule ] && [ "${{ github.event.schedule }}" != "17 3 * * 0" ]; then
+            families="sitemap,madara,themesia,gigaviewer,jsonlist,jsonapi,links,single,blogger,bloggerposts,inmanga"
+          fi
+          flags=()
+          if [ -n "$families" ]; then
+            flags+=(--family "$families")
+          fi
+          if [ -n "${{ github.event.inputs.site }}" ]; then
+            flags+=(--site "${{ github.event.inputs.site }}")
+          fi
+          bin/manga-downloader catalog crawl --out catalog --parallel 8 --site-timeout 20m "${flags[@]}" 2>&1 | tee crawl.log
+          code=${PIPESTATUS[0]}
+          echo "exit=$code" >> "$GITHUB_OUTPUT"
+          written=$(grep -cE '^[a-z0-9.-]+  [0-9]+ entries' crawl.log)
+          failed=$(grep -cE '^[a-z0-9.-]+  (FAIL|kept)' crawl.log)
+          echo "written=$written" >> "$GITHUB_OUTPUT"
+          echo "failed=$failed" >> "$GITHUB_OUTPUT"
+          {
+            echo "## $written sites written, $failed failed or kept"
+            echo
+            if [ "$failed" -gt 0 ]; then
+              echo '```'
+              grep -E '^[a-z0-9.-]+  (FAIL|kept)' crawl.log
+              echo '```'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+          exit 0
+
+      - name: Drop the sites the app can't download from
+        # a catalog file of a site not in the table is search only: the app
+        # has no use for it, so it goes
+        run: |
+          python3 - <<'EOF'
+          import json, os, glob
+          rows = json.load(open("code/catalog/sites.json"))
+          table = {s["site"] for s in rows}
+          for s in rows:
+              table.update(a for a in (s.get("aliases") or []) if isinstance(a, str))
+          gone = 0
+          for f in glob.glob("catalog/*.json*"):
+              name = os.path.basename(f)
+              if name in ("index.json", "sources.json") or name.startswith("sources-"):
+                  continue
+              site = name.split(".json")[0]
+              if site not in table:
+                  os.remove(f); gone += 1
+          print(f"{gone} search-only files removed")
+          EOF
+
+      - name: Index and gzip
+        run: bin/manga-downloader catalog index --gzip --out catalog
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A catalog
+          if git diff --cached --quiet; then
+            echo "no change"
+            exit 0
+          fi
+          total=$(python3 -c 'import json; print(sum(s["entries"] for s in json.load(open("catalog/index.json"))["sites"]))')
+          sites=$(python3 -c 'import json; print(len(json.load(open("catalog/index.json"))["sites"]))')
+          git commit -qm "Update catalog: $total entries, $sites sites"
+          git push origin HEAD:main
+
+      - name: Fail when most sites failed
+        run: |
+          written=${{ steps.crawl.outputs.written }}
+          failed=${{ steps.crawl.outputs.failed }}
+          if [ "$written" -eq 0 ] || [ "$failed" -gt "$written" ]; then
+            echo "::error::$failed sites failed, $written written"
+            exit 1
+          fi
