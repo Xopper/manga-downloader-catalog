@@ -1,7 +1,7 @@
 name: Catalog
 
 # Rebuilds the sites' catalogs (title + series URL) with the crawlers of
-# Xopper/manga-downloader (private; checked out with the CODE_TOKEN secret,
+# Xopper/manga-downloader (private; checked out with the CODE_SSH_KEY secret,
 # a fine-grained token with read access to its contents) and commits the
 # files under catalog/ on main, where the app downloads them from.
 #
@@ -49,7 +49,7 @@ jobs:
         with:
           repository: Xopper/manga-downloader
           ref: master
-          token: ${{ secrets.CODE_TOKEN }}
+          ssh-key: ${{ secrets.CODE_SSH_KEY }}
           path: code
 
       - uses: actions/setup-go@v5

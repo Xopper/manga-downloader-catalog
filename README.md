@@ -16,11 +16,10 @@ crawlers of [Xopper/manga-downloader](https://github.com/Xopper/manga-downloader
 - `catalog-suwayomi.yaml`: the Tachiyomi plugins, on Sunday, only for the
   sites our crawlers can't list.
 
-Both check the code out with the `CODE_TOKEN` secret: a fine-grained personal
-access token of a user who can read the private repository, with
-**Contents: read** on `Xopper/manga-downloader` and nothing else, set in this
-repository's Settings → Secrets and variables → Actions. Without it the
-workflows fail at their second step.
+Both check the code out with the `CODE_SSH_KEY` secret: the private half of
+a deploy key registered read-only on `Xopper/manga-downloader` (its Settings
+→ Deploy keys), set in this repository's Settings → Secrets and variables →
+Actions. Without it the workflows fail at their second step.
 
 This repository is public so that the app can read it without a login and so
 that the workflows run on GitHub's free minutes for public repositories. It

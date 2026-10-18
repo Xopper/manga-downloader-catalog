@@ -7,7 +7,7 @@ name: Catalog (Suwayomi)
 # spider). Sources of sites not in the table are left out: the app can't
 # download from them. It runs through a Suwayomi-Server the runner starts
 # (the script and the crawler come from Xopper/manga-downloader, checked
-# out with the CODE_TOKEN secret), two shards in parallel, and commits the
+# out with the CODE_SSH_KEY secret), two shards in parallel, and commits the
 # files under catalog/ on main next to our crawlers' (catalog.yaml). A shard
 # that fails still uploads what it got; the publish job merges every shard,
 # pushes, and then goes red if any shard failed.
@@ -50,7 +50,7 @@ jobs:
         with:
           repository: Xopper/manga-downloader
           ref: master
-          token: ${{ secrets.CODE_TOKEN }}
+          ssh-key: ${{ secrets.CODE_SSH_KEY }}
           path: code
 
       - uses: actions/setup-go@v5
@@ -142,7 +142,7 @@ jobs:
         with:
           repository: Xopper/manga-downloader
           ref: master
-          token: ${{ secrets.CODE_TOKEN }}
+          ssh-key: ${{ secrets.CODE_SSH_KEY }}
           path: code
 
       - uses: actions/setup-go@v5
