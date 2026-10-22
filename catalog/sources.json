@@ -2238,6 +2238,16 @@
   "downloadable": true
  },
  {
+  "site": "kagane.net",
+  "name": "Kagane",
+  "lang": "en",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 204978,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "kagane.org",
   "name": "Kagane",
   "lang": "en",

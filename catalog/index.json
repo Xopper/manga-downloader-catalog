@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T09:18:14.657389041Z",
+ "generated": "2026-10-22T10:58:28.867635669Z",
  "sites": [
   {
    "site": "02.ngomik.cc",
@@ -1113,6 +1113,13 @@
    "entries": 1,
    "crawled": "2026-10-22T08:51:27.427688816Z",
    "sha256": "4aa825c75e667265aed3bc077bb206514397bc7defa62e65e3eefdb04702cdb3"
+  },
+  {
+   "site": "kagane.net",
+   "file": "kagane.net.json.gz",
+   "entries": 204978,
+   "crawled": "2026-10-22T10:58:18.248624751Z",
+   "sha256": "ed94e791341145c9fe40a86c0c0203ab38880015d96afa507cb6e9629997ed0a"
   },
   {
    "site": "kanzenin.info",
@@ -3228,7 +3235,7 @@
    "file": "sources.json",
    "entries": 0,
    "crawled": "0001-01-01T00:00:00Z",
-   "sha256": "9011c6c92e688b22c60199870c185a4dae008836263cce045945110a20afd848"
+   "sha256": "2e8781beb3b8d305965135b06638ce5e86382e8bc5a316a494bc8d8084b658d9"
   }
  ]
 }
