@@ -10,6 +10,16 @@
   "downloadable": true
  },
  {
+  "site": "108read.com",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 1380,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "18porncomic.com",
   "name": "18 Porn Comic",
   "lang": "en",
@@ -69,7 +79,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3992984777516935224",
-  "entries": 850,
+  "entries": 895,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -135,7 +145,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8547397037512613554",
-  "entries": 7477,
+  "entries": 11181,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -331,7 +341,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "7786528235956058474",
-  "entries": 18573,
+  "entries": 29772,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -342,7 +352,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "2076371496779298312",
-  "entries": 505,
+  "entries": 507,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -444,7 +454,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1678128543826757763",
-  "entries": 298,
+  "entries": 1083,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -560,7 +570,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7034264791241222160",
-  "entries": 12469,
+  "entries": 12493,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -738,7 +748,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "499082788596590240",
-  "entries": 94724,
+  "entries": 94757,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -759,7 +769,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "4972933717624256217",
-  "entries": 132210,
+  "entries": 132229,
   "complete": false,
   "links": "templated",
   "fetched": 1,
@@ -838,7 +848,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "954997815643613941",
-  "entries": 8092,
+  "entries": 8096,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -972,7 +982,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "2900023289777642714",
-  "entries": 13740,
+  "entries": 13762,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -994,7 +1004,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3513996752712952755",
-  "entries": 1705,
+  "entries": 1709,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1099,6 +1109,16 @@
   "downloadable": true
  },
  {
+  "site": "dragontranslation.org",
+  "name": "Spanish, mostly NSFW",
+  "lang": "es",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 2617,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "drakecomic.net",
   "name": "Drake Scans",
   "lang": "en",
@@ -1115,7 +1135,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "669095474988166464",
-  "entries": 415,
+  "entries": 25214,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1138,7 +1158,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7229505035165953281",
-  "entries": 6043,
+  "entries": 25046,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1194,7 +1214,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "2848420679472350044",
-  "entries": 1082,
+  "entries": 1083,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1293,7 +1313,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6484561431658238800",
-  "entries": 16028,
+  "entries": 39465,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1327,6 +1347,16 @@
   "entries": 154,
   "complete": true,
   "links": "joined",
+  "downloadable": true
+ },
+ {
+  "site": "flash-manga.net",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 944,
+  "complete": true,
   "downloadable": true
  },
  {
@@ -1420,7 +1450,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3956136651279281107",
-  "entries": 11544,
+  "entries": 11553,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1497,7 +1527,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1702911211040495914",
-  "entries": 37292,
+  "entries": 37337,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1519,7 +1549,7 @@
   "lang": "th",
   "nsfw": false,
   "sourceId": "",
-  "entries": 1386,
+  "entries": 1387,
   "complete": true,
   "downloadable": true
  },
@@ -1640,7 +1670,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2486465102799235219",
-  "entries": 2579,
+  "entries": 2754,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1661,7 +1691,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8561426018751869351",
-  "entries": 601,
+  "entries": 1716,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1705,7 +1735,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6625474581258090106",
-  "entries": 601,
+  "entries": 9839,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1728,7 +1758,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "918989295758523524",
-  "entries": 27317,
+  "entries": 39255,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1739,7 +1769,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "647637185891033517",
-  "entries": 26291,
+  "entries": 39426,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1750,7 +1780,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4541545529482216024",
-  "entries": 7630,
+  "entries": 23975,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1783,7 +1813,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7266624490370375187",
-  "entries": 41994,
+  "entries": 42091,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1805,7 +1835,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2420370334023011697",
-  "entries": 15024,
+  "entries": 17816,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1828,7 +1858,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7719798645438596394",
-  "entries": 9065,
+  "entries": 18286,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1873,7 +1903,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "3310562162433401964",
-  "entries": 21289,
+  "entries": 31976,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1884,7 +1914,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6741034623728813910",
-  "entries": 1116,
+  "entries": 1117,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -1896,7 +1926,7 @@
   "lang": "pt-BR",
   "nsfw": false,
   "sourceId": "",
-  "entries": 338,
+  "entries": 339,
   "complete": true,
   "downloadable": true
  },
@@ -1917,7 +1947,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7664311260874726882",
-  "entries": 2478,
+  "entries": 2479,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1929,7 +1959,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "918523496924275699",
-  "entries": 2496,
+  "entries": 2497,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1941,7 +1971,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1089473637776666044",
-  "entries": 2128,
+  "entries": 2129,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -1953,7 +1983,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3055889891446984546",
-  "entries": 28008,
+  "entries": 40520,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1987,7 +2017,7 @@
   "lang": "fr",
   "nsfw": false,
   "sourceId": "",
-  "entries": 2285,
+  "entries": 2287,
   "complete": true,
   "downloadable": true
  },
@@ -2116,7 +2146,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "630837345003448937",
-  "entries": 5997,
+  "entries": 15400,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -2155,12 +2185,32 @@
   "downloadable": false
  },
  {
+  "site": "infrafandub.com",
+  "name": "Spanish",
+  "lang": "es",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 18,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "inmanga.com",
   "name": "",
   "lang": "es",
   "nsfw": false,
   "sourceId": "",
   "entries": 5249,
+  "complete": true,
+  "downloadable": true
+ },
+ {
+  "site": "inu-manga.net",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 1533,
   "complete": true,
   "downloadable": true
  },
@@ -2398,7 +2448,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7739452864322240494",
-  "entries": 122,
+  "entries": 127,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -2471,12 +2521,22 @@
   "downloadable": true
  },
  {
+  "site": "komikdewasa.art",
+  "name": "Indonesian, mostly NSFW",
+  "lang": "id",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 6113,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "komikindo.ch",
   "name": "",
   "lang": "id",
   "nsfw": false,
   "sourceId": "",
-  "entries": 9415,
+  "entries": 9418,
   "complete": true,
   "downloadable": true
  },
@@ -2539,7 +2599,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7947062020376654174",
-  "entries": 95220,
+  "entries": 95269,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -2560,7 +2620,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7076475127850729187",
-  "entries": 4775,
+  "entries": 4777,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -2582,7 +2642,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "7925933833035450162",
-  "entries": 154,
+  "entries": 157,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -2593,7 +2653,7 @@
   "lang": "es",
   "nsfw": false,
   "sourceId": "",
-  "entries": 580,
+  "entries": 581,
   "complete": true,
   "downloadable": true
  },
@@ -2603,7 +2663,17 @@
   "lang": "es",
   "nsfw": false,
   "sourceId": "",
-  "entries": 28137,
+  "entries": 28154,
+  "complete": true,
+  "downloadable": true
+ },
+ {
+  "site": "leitor.borutoexplorer.com.br",
+  "name": "Portuguese",
+  "lang": "pt-BR",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 13,
   "complete": true,
   "downloadable": true
  },
@@ -2623,7 +2693,7 @@
   "lang": "fr",
   "nsfw": false,
   "sourceId": "",
-  "entries": 422,
+  "entries": 440,
   "complete": true,
   "downloadable": true
  },
@@ -2686,7 +2756,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4480996639887718467",
-  "entries": 601,
+  "entries": 1175,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -2708,7 +2778,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8622937201319058235",
-  "entries": 3713,
+  "entries": 3744,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -2985,7 +3055,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6244055465910932489",
-  "entries": 3472,
+  "entries": 3486,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -2996,7 +3066,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4446818596127611511",
-  "entries": 674,
+  "entries": 675,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -3008,7 +3078,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "5575864808495704378",
-  "entries": 4109,
+  "entries": 4122,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3042,7 +3112,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4215511432986138970",
-  "entries": 98355,
+  "entries": 98389,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3074,7 +3144,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "7208855238528281651",
-  "entries": 705,
+  "entries": 739,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3108,7 +3178,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "5571661567325096882",
-  "entries": 2872,
+  "entries": 2886,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3173,7 +3243,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2964723819258267786",
-  "entries": 4753,
+  "entries": 4872,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -3185,7 +3255,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "6255493077716027174",
-  "entries": 6726,
+  "entries": 6739,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3208,7 +3278,7 @@
   "lang": "all",
   "nsfw": false,
   "sourceId": "6866320578550428692",
-  "entries": 11716,
+  "entries": 11723,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3252,7 +3322,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1099222169691387069",
-  "entries": 1064,
+  "entries": 1065,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -3264,7 +3334,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7450882931813509619",
-  "entries": 1064,
+  "entries": 1065,
   "complete": true,
   "links": "fetched",
   "fetched": 58,
@@ -3276,7 +3346,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8144054169452081697",
-  "entries": 15389,
+  "entries": 24507,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3331,7 +3401,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2",
-  "entries": 16951,
+  "entries": 41434,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3342,7 +3412,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3901872639081578162",
-  "entries": 9006,
+  "entries": 20818,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3386,7 +3456,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2528986671771677900",
-  "entries": 98355,
+  "entries": 98389,
   "complete": false,
   "failed": true,
   "downloadable": true
@@ -3397,9 +3467,19 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3170561626848540385",
-  "entries": 1787,
+  "entries": 1821,
   "complete": true,
   "links": "unchecked",
+  "downloadable": true
+ },
+ {
+  "site": "mangakimi.com",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 36,
+  "complete": true,
   "downloadable": true
  },
  {
@@ -3517,7 +3597,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "",
-  "entries": 98355,
+  "entries": 98389,
   "complete": true,
   "downloadable": true
  },
@@ -3583,7 +3663,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "",
-  "entries": 4900,
+  "entries": 5100,
   "complete": true,
   "downloadable": true
  },
@@ -3593,7 +3673,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4265503553734005106",
-  "entries": 59,
+  "entries": 60,
   "complete": true,
   "links": "fetched",
   "downloadable": true
@@ -3638,7 +3718,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "4994699950662723787",
-  "entries": 32436,
+  "entries": 32469,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3660,7 +3740,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2681651342533848540",
-  "entries": 3251,
+  "entries": 3252,
   "complete": true,
   "links": "fetched",
   "downloadable": true
@@ -3790,7 +3870,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2703831045012166262",
-  "entries": 41644,
+  "entries": 41662,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3812,7 +3892,7 @@
   "lang": "es",
   "nsfw": false,
   "sourceId": "",
-  "entries": 1605,
+  "entries": 1606,
   "complete": true,
   "downloadable": true
  },
@@ -3908,7 +3988,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "7638481723868333116",
-  "entries": 352,
+  "entries": 357,
   "complete": true,
   "links": "fetched",
   "downloadable": true
@@ -3919,7 +3999,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "3544957587727489204",
-  "entries": 46,
+  "entries": 51,
   "complete": true,
   "links": "fetched",
   "fetched": 1,
@@ -3942,7 +4022,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "5075089422240578347",
-  "entries": 737,
+  "entries": 742,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3987,7 +4067,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1903782575226230108",
-  "entries": 601,
+  "entries": 5407,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -4032,7 +4112,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "993336618407081332",
-  "entries": 3804,
+  "entries": 3817,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4043,7 +4123,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "28198508135984457",
-  "entries": 2217,
+  "entries": 2224,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4054,7 +4134,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "687150405919946955",
-  "entries": 2335,
+  "entries": 2336,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4076,7 +4156,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1509372624702907317",
-  "entries": 1583,
+  "entries": 1595,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4093,12 +4173,22 @@
   "downloadable": false
  },
  {
+  "site": "manhwabreakup.com",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 1011,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "manhwabuddy.com",
   "name": "ManhwaBuddy",
   "lang": "en",
   "nsfw": true,
   "sourceId": "397029358682805931",
-  "entries": 3682,
+  "entries": 3729,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4109,7 +4199,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6720687475375335817",
-  "entries": 652,
+  "entries": 653,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -4132,7 +4222,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "562792527363909585",
-  "entries": 991,
+  "entries": 996,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4143,7 +4233,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7672439791159944710",
-  "entries": 1938,
+  "entries": 1939,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -4165,7 +4255,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7576857265985588198",
-  "entries": 2000,
+  "entries": 2032,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4198,7 +4288,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3868891550336834170",
-  "entries": 1082,
+  "entries": 1100,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -4210,7 +4300,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3472935303493224823",
-  "entries": 952,
+  "entries": 3022,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4243,7 +4333,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6460882153975501439",
-  "entries": 1336,
+  "entries": 2074,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4289,7 +4379,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "5177484976652938680",
-  "entries": 601,
+  "entries": 11042,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -4334,7 +4424,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8753096034341798862",
-  "entries": 3287,
+  "entries": 3289,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -4368,7 +4458,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "734865402529567092",
-  "entries": 8214,
+  "entries": 8220,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4449,6 +4539,16 @@
   "downloadable": true
  },
  {
+  "site": "montetaiscanlator.xyz",
+  "name": "Portuguese",
+  "lang": "pt-BR",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 241,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "multporn.net",
   "name": "Multporn",
   "lang": "en",
@@ -4497,7 +4597,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4899971628155084225",
-  "entries": 12745,
+  "entries": 25085,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4519,7 +4619,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2242106898634732967",
-  "entries": 1494,
+  "entries": 1516,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -4563,7 +4663,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1024627298672457456",
-  "entries": 98355,
+  "entries": 98389,
   "complete": false,
   "failed": true,
   "downloadable": true
@@ -4636,7 +4736,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "7910220811455615939",
-  "entries": 664363,
+  "entries": 666362,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4647,7 +4747,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "2384499981488817067",
-  "entries": 23558,
+  "entries": 38214,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4730,9 +4830,19 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7570101320206504111",
-  "entries": 10685,
+  "entries": 16189,
   "complete": false,
   "links": "joined",
+  "downloadable": true
+ },
+ {
+  "site": "ntr-manga.net",
+  "name": "Thai, mostly NSFW",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 1388,
+  "complete": true,
   "downloadable": true
  },
  {
@@ -4797,7 +4907,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "",
-  "entries": 2280,
+  "entries": 2281,
   "complete": true,
   "downloadable": true
  },
@@ -4931,7 +5041,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "7776050777496310004",
-  "entries": 321,
+  "entries": 324,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -4957,6 +5067,16 @@
   "complete": true,
   "links": "templated",
   "fetched": 1,
+  "downloadable": true
+ },
+ {
+  "site": "paradise-bl.com",
+  "name": "Arabic",
+  "lang": "ar",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 66,
+  "complete": true,
   "downloadable": true
  },
  {
@@ -5058,7 +5178,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "5806040666300479660",
-  "entries": 1009,
+  "entries": 1010,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -5098,12 +5218,22 @@
   "downloadable": true
  },
  {
+  "site": "rawdex.net",
+  "name": "mostly NSFW",
+  "lang": "en",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 1634,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "rawkuma.net",
   "name": "",
   "lang": "ja",
   "nsfw": false,
   "sourceId": "",
-  "entries": 9824,
+  "entries": 9826,
   "complete": true,
   "downloadable": true
  },
@@ -5167,7 +5297,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "4917014756556380981",
-  "entries": 7,
+  "entries": 11,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -5300,7 +5430,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "3062320139670175675",
-  "entries": 87,
+  "entries": 91,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -5334,7 +5464,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "3390167717659783669",
-  "entries": 1983,
+  "entries": 1999,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -5357,7 +5487,7 @@
   "lang": "id",
   "nsfw": false,
   "sourceId": "",
-  "entries": 4234,
+  "entries": 4246,
   "complete": true,
   "downloadable": true
  },
@@ -5377,7 +5507,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4870917758913494428",
-  "entries": 601,
+  "entries": 7738,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -5424,7 +5554,7 @@
   "lang": "id",
   "nsfw": false,
   "sourceId": "",
-  "entries": 2836,
+  "entries": 2840,
   "complete": true,
   "downloadable": true
  },
@@ -5562,7 +5692,7 @@
   "lang": "id",
   "nsfw": false,
   "sourceId": "",
-  "entries": 142,
+  "entries": 143,
   "complete": true,
   "downloadable": true
  },
@@ -5589,12 +5719,22 @@
   "downloadable": true
  },
  {
+  "site": "sing-manga.com",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 1260,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "sirenscans.org",
   "name": "Siren Scans",
   "lang": "en",
   "nsfw": false,
   "sourceId": "5804710058654490234",
-  "entries": 1526,
+  "entries": 1533,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -5611,12 +5751,22 @@
   "downloadable": false
  },
  {
+  "site": "slow-manga.net",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 1470,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "speed-manga.net",
   "name": "Thai",
   "lang": "th",
   "nsfw": false,
   "sourceId": "",
-  "entries": 2014,
+  "entries": 2016,
   "complete": true,
   "downloadable": true
  },
@@ -5685,12 +5835,22 @@
   "downloadable": true
  },
  {
+  "site": "tanuki-manga.net",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 12026,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "tapas.io",
   "name": "Tapas",
   "lang": "en",
   "nsfw": true,
   "sourceId": "5554748812413853237",
-  "entries": 64635,
+  "entries": 64643,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -5795,6 +5955,16 @@
   "downloadable": false
  },
  {
+  "site": "tilkiscans.com",
+  "name": "Turkish",
+  "lang": "tr",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 76,
+  "complete": true,
+  "downloadable": true
+ },
+ {
   "site": "timelesstoons.org",
   "name": "TimelessToons",
   "lang": "en",
@@ -5842,7 +6012,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "339438238793535753",
-  "entries": 4988,
+  "entries": 5072,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -5897,7 +6067,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "5404499323728358840",
-  "entries": 600,
+  "entries": 1099,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -5920,7 +6090,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1581110056159285576",
-  "entries": 9320,
+  "entries": 9329,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -5942,7 +6112,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "225310046014902430",
-  "entries": 71171,
+  "entries": 71202,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -5963,7 +6133,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6293890187960663957",
-  "entries": 95221,
+  "entries": 95270,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -6078,7 +6248,7 @@
   "lang": "zh",
   "nsfw": false,
   "sourceId": "",
-  "entries": 46404,
+  "entries": 51984,
   "complete": true,
   "downloadable": true
  },
@@ -6128,7 +6298,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "9114028255622294379",
-  "entries": 697,
+  "entries": 699,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -6206,7 +6376,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "2559570015828016575",
-  "entries": 479,
+  "entries": 480,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -6318,7 +6488,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "319678837350572744",
-  "entries": 58581,
+  "entries": 62647,
   "complete": false,
   "links": "templated",
   "fetched": 1,
@@ -6362,7 +6532,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "2522335540328470744",
-  "entries": 545,
+  "entries": 1036,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -6439,7 +6609,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "6540843430852844328",
-  "entries": 4,
+  "entries": 5259,
   "complete": true,
   "links": "fetched",
   "downloadable": true
@@ -6494,7 +6664,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1201694572804778862",
-  "entries": 2659,
+  "entries": 7248,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -6597,6 +6767,16 @@
   "entries": 44128,
   "complete": false,
   "links": "unchecked",
+  "downloadable": true
+ },
+ {
+  "site": "xn--l3c0azab5a2gta.com",
+  "name": "Thai",
+  "lang": "th",
+  "nsfw": false,
+  "sourceId": "",
+  "entries": 12020,
+  "complete": true,
   "downloadable": true
  },
  {
@@ -6704,7 +6884,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2975409305226490397",
-  "entries": 1351,
+  "entries": 1356,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -6759,7 +6939,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "1987105317893699901",
-  "entries": 95239,
+  "entries": 95269,
   "complete": true,
   "links": "joined",
   "downloadable": true
