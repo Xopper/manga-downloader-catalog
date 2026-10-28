@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-27T09:34:07.805660062Z",
+ "generated": "2026-10-28T10:24:31.695197828Z",
  "sites": [
   {
    "site": "02.ngomik.cc",
    "file": "02.ngomik.cc.json.gz",
-   "entries": 2397,
-   "crawled": "2026-10-27T09:05:09.963236889Z",
-   "sha256": "e93fa82090d92f22121b04ab40e310490e360c7e54ab279686f557bedd24f269"
+   "entries": 2404,
+   "crawled": "2026-10-28T09:45:00.585478629Z",
+   "sha256": "cce0b1884f1357e5c9cfa44f0e04f8b0d986464e837cde2981e7e2535ed6be3f"
   },
   {
    "site": "108read.com",
@@ -19,8 +19,8 @@
    "site": "18porncomic.com",
    "file": "18porncomic.com.json.gz",
    "entries": 32565,
-   "crawled": "2026-10-27T09:05:08.52942989Z",
-   "sha256": "7ee08d6bd9032b2f4cd0080c5b35e63ed76dcf1f5bf9b0d0dda2e58b949dd449"
+   "crawled": "2026-10-28T09:45:03.871904388Z",
+   "sha256": "ccbed0e257880a81bec99d573b1de7ba2b0f5b78fba893a3c5fe2a419ec81265"
   },
   {
    "site": "1manga.co",
@@ -33,22 +33,22 @@
    "site": "1punchman.com",
    "file": "1punchman.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:07:03.500226486Z",
-   "sha256": "7afaee749d0eeccd6fec4767a912869b5529a4c68eab7cf2cb38c53d9f088031"
+   "crawled": "2026-10-28T09:44:57.290379951Z",
+   "sha256": "da8100ea5c6d6bfdfbb332df71c1961fa9c4e3fd67bbb83ca7cb01a7e73f4aec"
   },
   {
    "site": "3asq.online",
    "file": "3asq.online.json.gz",
    "entries": 487,
-   "crawled": "2026-10-27T09:07:30.67814676Z",
-   "sha256": "953a06785f18eb7d084e161fced8fb2de02090a581dca88c6793639a0cc94577"
+   "crawled": "2026-10-28T09:45:25.306357647Z",
+   "sha256": "fd5a38bcc842417a30a63f75c9cf4fd21f99c7cb5f2414dd7c4e483fcffd336f"
   },
   {
    "site": "3hentai.net",
    "file": "3hentai.net.json.gz",
    "entries": 480850,
-   "crawled": "2026-10-27T09:07:31.311196269Z",
-   "sha256": "1c0fc6e05f3f6123ffe2e3d118672c94150f6b7b964dbc48aa0d14b0b4d72b24"
+   "crawled": "2026-10-28T09:45:14.996457353Z",
+   "sha256": "21f16433ebc0d4a6fbea6e9a29f9b3fa507499a0fe0737e57db7a88ebe82738a"
   },
   {
    "site": "4porncomic.com",
@@ -81,58 +81,58 @@
   {
    "site": "allporncomic.io",
    "file": "allporncomic.io.json.gz",
-   "entries": 1025,
-   "crawled": "2026-10-27T09:07:35.27694704Z",
-   "sha256": "065303fb1521e557faa8f8d78aaa0a62cf45f629f36aa328021fa86f5dd3e6db"
+   "entries": 1026,
+   "crawled": "2026-10-28T09:45:02.209141346Z",
+   "sha256": "b734b78699b138dcd6b371c3c60540bfcfdfb5babc9bc302539108f3d8656aeb"
   },
   {
    "site": "amangaplanet.com.tr",
    "file": "amangaplanet.com.tr.json.gz",
    "entries": 18,
-   "crawled": "2026-10-27T09:05:03.425812279Z",
-   "sha256": "481884be63053bb642d1cae673f4db7891abd0c9bce14429cf05ce17410c0675"
+   "crawled": "2026-10-28T09:45:29.025399578Z",
+   "sha256": "07b7f4829adae822bb80ac9d32cc20dcb4dd25ea558ba3c548c348a835f57de3"
   },
   {
    "site": "anikiga.com",
    "file": "anikiga.com.json.gz",
    "entries": 19,
-   "crawled": "2026-10-27T09:05:02.887902729Z",
-   "sha256": "3d3e74234c2399555f62b511b3817f636648596fcf3986bb7d28385a1201f5ca"
+   "crawled": "2026-10-28T09:45:29.009332784Z",
+   "sha256": "8d3928814d2780b10df87a58edafa98d463a6e392aa922ac92ea2c989e071935"
   },
   {
    "site": "animeallstar1.com",
    "file": "animeallstar1.com.json.gz",
-   "entries": 20,
-   "crawled": "2026-10-27T09:05:02.894547287Z",
-   "sha256": "11163588081cf681439ffc754a7b49d1258f827e4d3bdfd72624fca98de5d7ff"
+   "entries": 19,
+   "crawled": "2026-10-28T09:45:29.494230481Z",
+   "sha256": "9a2b2bb413d0fef40453233563c0bf70e749e059bfc13540823c57bda61b2e94"
   },
   {
    "site": "animeallstar30.com",
    "file": "animeallstar30.com.json.gz",
    "entries": 47,
-   "crawled": "2026-10-27T09:05:03.768652873Z",
-   "sha256": "37f866deef876bb28b49f3623ea8ffe3a7c02b571c77a39d9e21814c89dfe995"
+   "crawled": "2026-10-28T09:45:30.031695283Z",
+   "sha256": "d7d56c84be9525e882faf18304bc0f823306bc00fd5063cea3dce1425e1c6945"
   },
   {
    "site": "anzmanga25.com",
    "file": "anzmanga25.com.json.gz",
    "entries": 238,
-   "crawled": "2026-10-27T09:05:04.005915888Z",
-   "sha256": "f81ce711a4af7b553702f31c67d6c00ecd24ed946ad3dc28d2f4bf18594c7aaf"
+   "crawled": "2026-10-28T09:45:30.258083117Z",
+   "sha256": "1522043ee139e78c041b982f72432daca49c7ca40d89151c81d2ed86afade4b1"
   },
   {
    "site": "apcomics.org",
    "file": "apcomics.org.json.gz",
    "entries": 2628,
-   "crawled": "2026-10-27T09:05:10.567625911Z",
-   "sha256": "4be3ca405eeca9f188f0567eafb35b51b029f2c28ccd40a4a83000d0910afff3"
+   "crawled": "2026-10-28T09:45:38.636867854Z",
+   "sha256": "5ed4a6fe9aaea21116bcbec8b94df19208e717d7efd37e1268fcf6ff35db6794"
   },
   {
    "site": "apollcomics.es",
    "file": "apollcomics.es.json.gz",
    "entries": 575,
-   "crawled": "2026-10-27T09:05:56.727473078Z",
-   "sha256": "444a6b94455aad6337c2c4952d3c0c7dea0294a232b4bf5ff8c7f576eb89e863"
+   "crawled": "2026-10-28T09:46:29.543331561Z",
+   "sha256": "cc5447e6850cab94bdc8e719034d16549b2929f4dda1a725dc17e5732b4c6ea2"
   },
   {
    "site": "arc-relight.com",
@@ -145,15 +145,15 @@
    "site": "arenascan.com",
    "file": "arenascan.com.json.gz",
    "entries": 5175,
-   "crawled": "2026-10-27T09:05:08.941033612Z",
-   "sha256": "2d3c1a133202388507d5d230e691ae179406d617955c393025f2e16b4ac86aab"
+   "crawled": "2026-10-28T09:45:33.55567447Z",
+   "sha256": "1161d0c18cfba4d654bda0655545f98f293b5e517aa8299b049de1046212083e"
   },
   {
    "site": "artlapsa.com",
    "file": "artlapsa.com.json.gz",
-   "entries": 1048,
-   "crawled": "2026-10-27T09:05:05.733085703Z",
-   "sha256": "47220c23363de3f7c928467d15ef4697f129b50e9d66e47d9fb8d52f81ebd9a0"
+   "entries": 1058,
+   "crawled": "2026-10-28T09:45:37.74559933Z",
+   "sha256": "466020358afda6c327973989ccb652ee3a670ae4c59179be7d3df5a928b1732c"
   },
   {
    "site": "asmhentai.com",
@@ -165,9 +165,9 @@
   {
    "site": "asmotoon.com",
    "file": "asmotoon.com.json.gz",
-   "entries": 507,
-   "crawled": "2026-10-27T09:25:09.668101436Z",
-   "sha256": "1649bfba200b595dafdf799f1920625410942b4cfffe198955ccec33bf9cbcb5"
+   "entries": 508,
+   "crawled": "2026-10-28T09:45:34.901001257Z",
+   "sha256": "bdf4a34577e523392459966beb38cba77b7ddcd78e6c78ef1da1afcffe11526c"
   },
   {
    "site": "assortedscans.com",
@@ -200,23 +200,23 @@
   {
    "site": "atsu.moe",
    "file": "atsu.moe.json.gz",
-   "entries": 27796,
-   "crawled": "2026-10-27T09:25:08.03471658Z",
-   "sha256": "994d13b6ca5405260d2aa3441277b344ddc0199296bb1774c4eff859fdbb9df1"
+   "entries": 28243,
+   "crawled": "2026-10-28T09:45:40.200395551Z",
+   "sha256": "0023ecabe7f509e4beff260f9ca09d1c142c92507ac1a1e70c610f4c0e6fa193"
   },
   {
    "site": "auntmanhwa.com",
    "file": "auntmanhwa.com.json.gz",
    "entries": 248,
-   "crawled": "2026-10-27T09:27:26.917875179Z",
-   "sha256": "d43d1317ecccd2397b50edec9ca2699be5797f23412db896057e62ead3af32af"
+   "crawled": "2026-10-28T09:45:39.785833233Z",
+   "sha256": "a6d4c8336fdf6195e812de85790e3705ad97eb2b87a3817bf229e6f04019b067"
   },
   {
    "site": "azorafly.com",
    "file": "azorafly.com.json.gz",
-   "entries": 1520,
-   "crawled": "2026-10-27T09:25:10.701097705Z",
-   "sha256": "79774e5d1a27af19170e251fbd0db4fd0ad5d74c13c3885b8699fd97776ecd2d"
+   "entries": 1521,
+   "crawled": "2026-10-28T09:45:41.537454938Z",
+   "sha256": "c457248597d9b20eaf58795eb0e1e665bd676a2fc1dc59a5a0311407a635b231"
   },
   {
    "site": "bakkin.moe",
@@ -236,8 +236,8 @@
    "site": "bestporncomix.com",
    "file": "bestporncomix.com.json.gz",
    "entries": 36145,
-   "crawled": "2026-10-27T09:27:25.551916079Z",
-   "sha256": "bac2ac57916125ffc4d313c6c2c421e2cd6d6c2b4e2c82ec3ae58ff9ddbdb27a"
+   "crawled": "2026-10-28T09:48:06.019644342Z",
+   "sha256": "433e09c8dccdf4db5130d3a7feb3dc0a4284bb947c999797a733af555ec01082"
   },
   {
    "site": "bigsolo.org",
@@ -250,64 +250,64 @@
    "site": "blackcloveronline.com",
    "file": "blackcloveronline.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:05:02.293295723Z",
-   "sha256": "ee21aec067b3f49af2c813f2bf5010d009a2d7f82059332df07ca8dcafcc283e"
+   "crawled": "2026-10-28T09:45:43.079704104Z",
+   "sha256": "fc27304467a8f949f7ed3a4819213a411364f4df82e64e6b01c004f00ec7f78c"
   },
   {
    "site": "bluesolo.org",
    "file": "bluesolo.org.json.gz",
    "entries": 96,
-   "crawled": "2026-10-27T09:05:19.023606599Z",
-   "sha256": "6416d6ec5c748864b0606b3c9f13826f355f0f2021cbf5c8cf5484e349f9e3d1"
+   "crawled": "2026-10-28T09:45:44.937716971Z",
+   "sha256": "feed50847ccc9578869fb62bb92bdce1d788872bd05885c8bc3e06e39a42b283"
   },
   {
    "site": "bunmanga.com",
    "file": "bunmanga.com.json.gz",
    "entries": 239,
-   "crawled": "2026-10-27T09:11:15.735224125Z",
-   "sha256": "85e06555f1fe8326e467a698f7a2cbddf34a30df2b8c810f23e117a2bb90a65e"
+   "crawled": "2026-10-28T09:46:50.420671042Z",
+   "sha256": "8498b808475f873753859d260d4ea1c6c856310d39c67c9f3ff3364cf84ca7ea"
   },
   {
    "site": "bymichiby.com",
    "file": "bymichiby.com.json.gz",
-   "entries": 365,
-   "crawled": "2026-10-27T09:12:13.501451528Z",
-   "sha256": "5f9b1b6a35dc4f9ebb10d7c3c2a78b584b5feb6529395206d5b42f24dc118fd1"
+   "entries": 366,
+   "crawled": "2026-10-28T09:46:03.770420117Z",
+   "sha256": "5ab5a30fc6caec4be65d04c2fc985b775db255f9fb7b380ca2abfeb1b8e24ae3"
   },
   {
    "site": "cafecomyaoi.com.br",
    "file": "cafecomyaoi.com.br.json.gz",
    "entries": 102,
-   "crawled": "2026-10-27T09:13:23.178454229Z",
-   "sha256": "58e8dc533abc92e9da151dd81510dbffa8ba0cfc4585b0648349dd751f8f036e"
+   "crawled": "2026-10-28T09:46:15.814116756Z",
+   "sha256": "f26ae533d9e043c8e5ce2ce731fc250fd764c1f9fc6a482c6e86cd737527f3ca"
   },
   {
    "site": "cartoonporn.to",
    "file": "cartoonporn.to.json.gz",
-   "entries": 12518,
-   "crawled": "2026-10-27T09:24:49.704306966Z",
-   "sha256": "3d0d3270d9701cd084c4f85ca4d55914a2989074c3a59cdf522ed158cc3899cd"
+   "entries": 12519,
+   "crawled": "2026-10-28T09:57:52.841400586Z",
+   "sha256": "195b0698b0079a453218d4f98a477f27bee8af3413ff4a2e72d1c094142702db"
   },
   {
    "site": "chainsawman-chapter.online",
    "file": "chainsawman-chapter.online.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:13:35.690912792Z",
-   "sha256": "d3cc6e33368cf2692f3f4bb42782be3d7104ff998e183370d59fdf69b11d335c"
+   "crawled": "2026-10-28T09:46:41.328440652Z",
+   "sha256": "6b1fd165e2ed3964a40c7a0b7f272dbcf7c36d268ffae6f034cff6f2789ee2f8"
   },
   {
    "site": "chainsawmannmanga.com",
    "file": "chainsawmannmanga.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:13:35.69119534Z",
-   "sha256": "efc6ba342363b79cc80b27459c05de13d12544b7a090c81632367c967e6ff1fd"
+   "crawled": "2026-10-28T09:46:42.39559399Z",
+   "sha256": "3ab0549abb60c9b024a0e557b89548580860132aa2d0c8311d1a7a3b6ec1c7b9"
   },
   {
    "site": "cocomic.co",
    "file": "cocomic.co.json.gz",
-   "entries": 2530,
-   "crawled": "2026-10-26T09:01:17.524640425Z",
-   "sha256": "e4adff3f1f3106e2cf7faeefa5dd0ca6007a77fe658a527a6092de54d08da760"
+   "entries": 3909,
+   "crawled": "2026-10-28T09:46:46.068188086Z",
+   "sha256": "aaf4d332a68d744d1fd72a4d154136863f65d9d0a108cea7ffc705844296fbc9"
   },
   {
    "site": "coffeemanga.net",
@@ -320,36 +320,36 @@
    "site": "colorizedmangas.com",
    "file": "colorizedmangas.com.json.gz",
    "entries": 99,
-   "crawled": "2026-10-27T09:13:36.439230187Z",
-   "sha256": "9e59147edbee58b8936e68bab0167cc9d74ddbbc51234f608c77ec162f5468ab"
+   "crawled": "2026-10-28T09:46:51.647180612Z",
+   "sha256": "6cfc0b11502943286c822a98fb6f04c76b9d8a79aaa62ed1a7e36bb25dbde945"
   },
   {
    "site": "comic-action.com",
    "file": "comic-action.com.json.gz",
    "entries": 241,
-   "crawled": "2026-10-27T09:13:39.026805762Z",
-   "sha256": "bf7c832a1e3142dc67cdaead6161cec086c9f64e573d5b2838dcf1d4d0f9d5d9"
+   "crawled": "2026-10-28T09:46:54.33376873Z",
+   "sha256": "3c3e7798982c49e6bb2d8b2c7409bf4148ba1401c1423ab1821929dce434d2dc"
   },
   {
    "site": "comic-days.com",
    "file": "comic-days.com.json.gz",
    "entries": 349,
-   "crawled": "2026-10-27T09:13:41.644816714Z",
-   "sha256": "cc6486686b49bf50cda975679858ece49b52d4c32443e55853bce10a104d41c9"
+   "crawled": "2026-10-28T09:46:56.143809247Z",
+   "sha256": "4d3a2fd6895bd4ff13b49311bfe99e9311a512b1ad17d7346cd288d5e9c5ac39"
   },
   {
    "site": "comic-earthstar.com",
    "file": "comic-earthstar.com.json.gz",
    "entries": 132,
-   "crawled": "2026-10-27T09:13:43.370118219Z",
-   "sha256": "a630154bf5dab592ba9986964325ab8c8d6960adbf9bb684a20ee9784b1f4054"
+   "crawled": "2026-10-28T09:44:58.840262271Z",
+   "sha256": "f06547816a839b9edaf014163905e4ce9185aa23a2556e36866efa2f29bbc38a"
   },
   {
    "site": "comic-gardo.com",
    "file": "comic-gardo.com.json.gz",
    "entries": 137,
-   "crawled": "2026-10-27T09:13:46.261425495Z",
-   "sha256": "03b8fc756282041047ca6fa04954aec9bb01a4e2404535262fb14ba2ede23ade"
+   "crawled": "2026-10-28T09:45:00.779613985Z",
+   "sha256": "cb28d73044a8985e384870e4415ebe5b06296ecbcf72357772403641ef9f8ff5"
   },
   {
    "site": "comic-growl.com",
@@ -362,71 +362,71 @@
    "site": "comic-ogyaaa.com",
    "file": "comic-ogyaaa.com.json.gz",
    "entries": 52,
-   "crawled": "2026-10-27T09:13:48.250551315Z",
-   "sha256": "40e94028afb344d2836b547da6b3921ac630104c2950b752bc495f0fccf0532d"
+   "crawled": "2026-10-28T09:45:02.184355781Z",
+   "sha256": "7e459eec10d38b92990f375be0191ac86ed47acf01c84edfa1309073a535acf6"
   },
   {
    "site": "comic-seasons.com",
    "file": "comic-seasons.com.json.gz",
    "entries": 18,
-   "crawled": "2026-10-27T09:13:47.705590275Z",
-   "sha256": "50e8fb9db2141ed755bd956af61506d4608d6c26ce09c45c5ecaa58b4736e51e"
+   "crawled": "2026-10-28T09:45:01.878042445Z",
+   "sha256": "85f37efca166760272d586bf2f82f8d59d3303d2b8e08ecd847bf581d9b3fde4"
   },
   {
    "site": "comic-trail.com",
    "file": "comic-trail.com.json.gz",
    "entries": 115,
-   "crawled": "2026-10-27T09:13:50.09615936Z",
-   "sha256": "8c38d72209409fb88bd6831afe8ab4ee5778b83fb875ed9a4641a6e96592697b"
+   "crawled": "2026-10-28T09:45:03.73833052Z",
+   "sha256": "1e3be6a494d11cfdf78d72325450e632624ac5ecaec39087780fd39d0db0e25a"
   },
   {
    "site": "comic-y-ours.com",
    "file": "comic-y-ours.com.json.gz",
    "entries": 65,
-   "crawled": "2026-10-27T09:13:51.318805406Z",
-   "sha256": "fae3fcbde0038db2b9d40ba69116d5389139e344a3e13be65f944ac51771fe76"
+   "crawled": "2026-10-28T09:45:03.586476433Z",
+   "sha256": "1c838a0f4306f507d049448cd7e4cb937b2c41a23e36eece895a821fa298eb38"
   },
   {
    "site": "comic-zenon.com",
    "file": "comic-zenon.com.json.gz",
    "entries": 176,
-   "crawled": "2026-10-27T09:13:55.051926901Z",
-   "sha256": "40e25cdbb9ca6e19d6e169f30b5e3f69864375ca43555a6a5861a81b5ff5ec2c"
+   "crawled": "2026-10-28T09:45:04.682697845Z",
+   "sha256": "0c4691a1a8a860e05c769ac228041d12d308eeb8cc15b93008530d118eb18422"
   },
   {
    "site": "comicasura.net",
    "file": "comicasura.net.json.gz",
-   "entries": 94809,
-   "crawled": "2026-10-27T09:14:06.638563894Z",
-   "sha256": "183c410160e9306051a625e66d6faf302ff17a35a04f9f131994c5c95f280d90"
+   "entries": 94833,
+   "crawled": "2026-10-28T09:45:13.545313404Z",
+   "sha256": "1b7a185bd091bcd3c517525765d5ff443b6390bb1e0059d10f13f9327a709173"
   },
   {
    "site": "comicborder.com",
    "file": "comicborder.com.json.gz",
    "entries": 51,
-   "crawled": "2026-10-27T09:14:11.464348986Z",
-   "sha256": "b1ae26267729b7ba15c6b429143eefe54ff5377ae78a28876f1b0e4a22e9895a"
+   "crawled": "2026-10-28T09:45:05.834440823Z",
+   "sha256": "e016a4bfa0533bc9c9a5265a4fd3059147ff448eccf978422d222aea50978c07"
   },
   {
    "site": "comick.live",
    "file": "comick.live.json.gz",
-   "entries": 132268,
-   "crawled": "2026-10-27T09:14:34.067531776Z",
-   "sha256": "61d600ce3bc7799a08a564ba53010081037993304be161da6ad66341ae3b9070"
+   "entries": 132290,
+   "crawled": "2026-10-28T09:45:33.178310484Z",
+   "sha256": "59568d9700149a3bb7301e10b6970a034b82cbcad79138b6e1108e701b0078af"
   },
   {
    "site": "comicland.org",
    "file": "comicland.org.json.gz",
-   "entries": 2731,
-   "crawled": "2026-10-27T09:14:53.130295651Z",
-   "sha256": "acbb6a4b3e30002ec62dfc7fcf04de42bbf606fe86e3f4eb7c3cee4376fa0b7f"
+   "entries": 2733,
+   "crawled": "2026-10-28T09:45:23.126693306Z",
+   "sha256": "5035b39d5c7ac9e30d93a0efacb326efcfcb9e1a271fad5bf164e94a4371831b"
   },
   {
    "site": "comics.8muses.com",
    "file": "comics.8muses.com.json.gz",
    "entries": 77872,
-   "crawled": "2026-10-27T09:15:30.747177072Z",
-   "sha256": "c31e364b4dee051abe1cbcdd451abf7438fbbf4d72d99e9d865a4b985cbc8404"
+   "crawled": "2026-10-28T09:45:15.730355265Z",
+   "sha256": "00aba17cf70cacf6349917786cd33b618fb03d628622742eeaea854684b61ffc"
   },
   {
    "site": "comics.inkr.com",
@@ -438,9 +438,9 @@
   {
    "site": "comivex.com",
    "file": "comivex.com.json.gz",
-   "entries": 8105,
-   "crawled": "2026-10-27T09:14:58.980228025Z",
-   "sha256": "df794918876816a10c4e03ca13f330e6e68aa7f295ea9e4c64e0e8cc225fcdb9"
+   "entries": 8111,
+   "crawled": "2026-10-28T09:45:08.93672215Z",
+   "sha256": "893dd16b29c6db30d63cb2134ddde4d98ed1560e243b3ceece7c0d532b19fa83"
   },
   {
    "site": "cucumbermanga.com",
@@ -453,8 +453,8 @@
    "site": "cutiecomics.com",
    "file": "cutiecomics.com.json.gz",
    "entries": 19077,
-   "crawled": "2026-10-27T09:14:59.86801986Z",
-   "sha256": "1b4bada3f1bb4b04259e0be6d6f5a38e7604bd66ca953a22fecc763f9cd9379f"
+   "crawled": "2026-10-28T09:45:10.445815849Z",
+   "sha256": "0534d5b134ea102f1feb140b35d6189845debb23107c68a2c9b5a895024c413a"
   },
   {
    "site": "danke.moe",
@@ -474,8 +474,8 @@
    "site": "decadencescans.com",
    "file": "decadencescans.com.json.gz",
    "entries": 79,
-   "crawled": "2026-10-27T09:15:15.978610141Z",
-   "sha256": "91ce2984fc9d3ae8d32136a0042ce4c6f779a29ca1ec679009c0d6d70b9f424b"
+   "crawled": "2026-10-28T09:45:27.589568911Z",
+   "sha256": "4e6d80f769d554162d3bb75e36c5e0ea99130e8b29d3d9d1bbfe6ba0c464c20e"
   },
   {
    "site": "demonicscans.org",
@@ -487,30 +487,30 @@
   {
    "site": "divascans.org",
    "file": "divascans.org.json.gz",
-   "entries": 1769,
-   "crawled": "2026-10-27T09:15:32.237289427Z",
-   "sha256": "d3f196b156def2ababab4d9e8499765cc55a5ea31cb49a4ddc771f04d5d50428"
+   "entries": 1778,
+   "crawled": "2026-10-28T09:45:36.150447639Z",
+   "sha256": "99724059734b5efcc3eec8a64e23685f2821a7015e04d4e2d254f02ecd66051f"
   },
   {
    "site": "dojing.net",
    "file": "dojing.net.json.gz",
-   "entries": 508,
-   "crawled": "2026-10-27T09:15:30.382606964Z",
-   "sha256": "de587ec00194353faf8feac472dc868daf2c40a63f1242acbb0b6e5dacb32ed1"
+   "entries": 509,
+   "crawled": "2026-10-28T09:45:17.593233006Z",
+   "sha256": "90f163144b3b97c231e1bef4e1be6b15cf565e1b82558e1b28d73ccae66e0fb0"
   },
   {
    "site": "doodmanga.com",
    "file": "doodmanga.com.json.gz",
    "entries": 991,
-   "crawled": "2026-10-27T09:16:47.710472999Z",
-   "sha256": "e16237bf577dc5b0ca48e59317643cef0a19a35191295458c4337122d6bf3e59"
+   "crawled": "2026-10-28T09:46:40.406261609Z",
+   "sha256": "7d9702289c585a9cffaf37d9a07f544e2b00d878d0cf60edd11c0a0cd5b96361"
   },
   {
    "site": "doujindistrict.com",
    "file": "doujindistrict.com.json.gz",
    "entries": 16634,
-   "crawled": "2026-10-27T09:17:44.375860911Z",
-   "sha256": "a2fb56d1898c6dff6b76be1c5444527bdf0298be9ac3f6e41c46c90896e016da"
+   "crawled": "2026-10-28T09:47:17.78646105Z",
+   "sha256": "7ba2953ce57123b55af119544476ae77a253e87738624b2d008fe582eea237d9"
   },
   {
    "site": "doujins.com",
@@ -530,8 +530,8 @@
    "site": "dragonballmangaa.com",
    "file": "dragonballmangaa.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:16:04.522571988Z",
-   "sha256": "5ead9435fda88a244cd59377408894074c02b28d1ded76c3d61a383d0d526535"
+   "crawled": "2026-10-28T09:45:23.13564188Z",
+   "sha256": "6dc1444e28c5cc9d347b570425e298b038dd7d399b84ba7f193b3d23a071cbb1"
   },
   {
    "site": "dragontranslation.org",
@@ -544,8 +544,8 @@
    "site": "drakecomic.net",
    "file": "drakecomic.net.json.gz",
    "entries": 61,
-   "crawled": "2026-10-27T09:16:09.508622573Z",
-   "sha256": "c81cbca584e21098e59a3fa5750a5f55fcd400f51901bf83d4d70d4a9c2796f5"
+   "crawled": "2026-10-28T09:45:28.085783647Z",
+   "sha256": "5be07ecb39724d7f89a532024827351a34e21ffd121e8fe60c52328443f849e8"
   },
   {
    "site": "dynasty-scans.com",
@@ -572,22 +572,22 @@
    "site": "elftoon.net",
    "file": "elftoon.net.json.gz",
    "entries": 182,
-   "crawled": "2026-10-27T09:13:37.534669238Z",
-   "sha256": "2b03171f434972b855ab8516977b0adc9df07f6689fbba8529aeb350e14f380a"
+   "crawled": "2026-10-28T09:45:26.619548868Z",
+   "sha256": "80f5aab1764b93d7096befe2453afbe7da59d9586582dae031be4165e8ffaa7f"
   },
   {
    "site": "en-hijala.com",
    "file": "en-hijala.com.json.gz",
    "entries": 135,
-   "crawled": "2026-10-27T09:13:53.84589399Z",
-   "sha256": "e91f1323b038328614eb3ad479e6e4847fd799d5b441a381a81b692ec5b37112"
+   "crawled": "2026-10-28T09:45:32.223379886Z",
+   "sha256": "cda74da5e99101b62eec44177de406e42c5c195516698038daf033362638c77c"
   },
   {
    "site": "en-thunderscans.com",
    "file": "en-thunderscans.com.json.gz",
-   "entries": 1087,
-   "crawled": "2026-10-27T09:14:22.95779777Z",
-   "sha256": "f5feb0644be9395c18ff17d4c2b71e4c597314e265c11969ad28ff5173ed965e"
+   "entries": 1088,
+   "crawled": "2026-10-28T09:46:03.492634777Z",
+   "sha256": "a39eecac1749cc85593e74641109cf9e5d3463e82c836f5433d5063eff4f93d3"
   },
   {
    "site": "erisscans.com",
@@ -614,15 +614,15 @@
    "site": "euphoriascan.com",
    "file": "euphoriascan.com.json.gz",
    "entries": 83,
-   "crawled": "2026-10-27T09:13:59.737111973Z",
-   "sha256": "4e98748e71d0e2c78f8aa41d0709e22c29f7e5ed270d2fc4425d70781981c2d9"
+   "crawled": "2026-10-28T09:45:40.128773207Z",
+   "sha256": "bd4190afecbd770fd8e6fd5c052c45bfc184b5cff977ddd948b1c5aa3095e065"
   },
   {
    "site": "evascans.net",
    "file": "evascans.net.json.gz",
    "entries": 265,
-   "crawled": "2026-10-27T09:14:09.596970229Z",
-   "sha256": "c4848ce0affd3c9f2f0a17173afce2a1d9ad23ce14f0c2748aa6bbc5ad731d86"
+   "crawled": "2026-10-28T09:45:38.300727162Z",
+   "sha256": "3b584b0402217f53d0fdb7ff32023e75d487f6fc22e169c2238cb4bc3ed445e6"
   },
   {
    "site": "fanfox.net",
@@ -635,22 +635,22 @@
    "site": "fbsquadx.com",
    "file": "fbsquadx.com.json.gz",
    "entries": 626,
-   "crawled": "2026-10-27T09:14:56.900791736Z",
-   "sha256": "d36530c6b7667892820399735781cfc982ef050f384bbf492c1e0065e21896a3"
+   "crawled": "2026-10-28T09:46:30.214019525Z",
+   "sha256": "59c5fc3cab7fdec3db2953fd04b3c7b699128ed0ac648e87b641820738dc367c"
   },
   {
    "site": "feelweb.jp",
    "file": "feelweb.jp.json.gz",
    "entries": 275,
-   "crawled": "2026-10-27T09:14:37.211679039Z",
-   "sha256": "baeb6473b05d6da8a734f45a3fbd2d2e98537de32a40dbf57f0a508ef575b619"
+   "crawled": "2026-10-28T09:45:41.278449419Z",
+   "sha256": "153b3b70519a20f7d9f82c8118de98183323484fa99c23d5c30739320dce217a"
   },
   {
    "site": "flamecomics.xyz",
    "file": "flamecomics.xyz.json.gz",
    "entries": 154,
-   "crawled": "2026-10-27T09:14:55.561271394Z",
-   "sha256": "e3978663fe79e55b86c9905976acd1f8d8c5c51c529159e0ba88750effdb7391"
+   "crawled": "2026-10-28T09:45:42.585505625Z",
+   "sha256": "aa63f552fcdb55250cf6e678da1019b2d34f208d9a76e4adeeeaa202c436a10a"
   },
   {
    "site": "flash-manga.net",
@@ -663,15 +663,15 @@
    "site": "fmteam.fr",
    "file": "fmteam.fr.json.gz",
    "entries": 20,
-   "crawled": "2026-10-27T09:14:56.910009135Z",
-   "sha256": "dbd9a93473b652e3f947370e36bcf3b4f0c09e0f5533511fd2c162137943a112"
+   "crawled": "2026-10-28T09:45:43.079164348Z",
+   "sha256": "eb68f137fd0e0eedf7fe8d1b57dfad357bb4ec8db377a7984c2aab98bf627bad"
   },
   {
    "site": "furyosociety.com",
    "file": "furyosociety.com.json.gz",
    "entries": 37,
-   "crawled": "2026-10-27T09:14:57.727593286Z",
-   "sha256": "c31139cbaa1d12bd92b0cc741a7c239b80b47e0f7d3ff6e31e954736662ef2f8"
+   "crawled": "2026-10-28T09:45:44.463126073Z",
+   "sha256": "b2676769eeab2c498563d1f7f0560b6c74aa6699cd93fffcfdfc00a732c18890"
   },
   {
    "site": "gaiatoon.com",
@@ -684,29 +684,29 @@
    "site": "gakamangas.com",
    "file": "gakamangas.com.json.gz",
    "entries": 11,
-   "crawled": "2026-10-27T09:15:08.823071663Z",
-   "sha256": "af4f61bd7e6405ec0d000774ecffe13354d319b17f5f1ff01b4114bbf79f9e3f"
+   "crawled": "2026-10-28T09:45:51.247817741Z",
+   "sha256": "f2c30c5b1c32302a36c249e6b9fe28266818557980c972965e721262fcc2e75e"
   },
   {
    "site": "gdscans.com",
    "file": "gdscans.com.json.gz",
    "entries": 102,
-   "crawled": "2026-10-27T09:15:29.122069165Z",
-   "sha256": "a52d819d0720077d7fd12c24357f20c2cc23e2a29297013eeaea55d8acd584f3"
+   "crawled": "2026-10-28T09:46:03.186254476Z",
+   "sha256": "a0c9eb898c7444ff4dec08f67845fa4f34a4d75880038223488f9b15416af6d0"
   },
   {
    "site": "gedecomix.com",
    "file": "gedecomix.com.json.gz",
-   "entries": 11569,
-   "crawled": "2026-10-27T09:16:04.480787027Z",
-   "sha256": "c24d63929c0075cc7524643b031d5a42811e5e1a4aabe6e4a5b9996f2ff4dc26"
+   "entries": 11577,
+   "crawled": "2026-10-28T09:46:41.279090879Z",
+   "sha256": "eeda6d90e9cf0ea1cd3579c29dbd95931b30616985c49501ab1c2a819d608a19"
   },
   {
    "site": "gensura.net",
    "file": "gensura.net.json.gz",
    "entries": 773,
-   "crawled": "2026-10-27T09:17:19.826207761Z",
-   "sha256": "5ccad002ff5014d28e8e100df413fb85c9dce699d2e113841f472c31e34aa017"
+   "crawled": "2026-10-28T09:46:16.921170513Z",
+   "sha256": "b9875000f97b347918f898f2d57ec477e21ea05635a74199c8e4398035cea924"
   },
   {
    "site": "genztoons.org",
@@ -719,8 +719,8 @@
    "site": "ghostoon.com",
    "file": "ghostoon.com.json.gz",
    "entries": 291,
-   "crawled": "2026-10-27T09:17:40.901462083Z",
-   "sha256": "abe6eb7ab04044dc4459f0fa5ba38879c3fb618ddcddf9a878566415b4270cda"
+   "crawled": "2026-10-28T09:46:50.731318906Z",
+   "sha256": "852d83edbb843f85d7aa5cbfa35a4674ff12f2b24f4cfa25d6db0d6c8a2c1125"
   },
   {
    "site": "global.toomics.com",
@@ -732,37 +732,37 @@
   {
    "site": "globalcomix.com",
    "file": "globalcomix.com.json.gz",
-   "entries": 37444,
-   "crawled": "2026-10-27T09:17:56.242600064Z",
-   "sha256": "fa3c11cafbbb8b2161f7fbbab2356832f4f62cc8bae7e573d67dd3aa677a0caf"
+   "entries": 37485,
+   "crawled": "2026-10-28T09:46:53.449751696Z",
+   "sha256": "dd6a55fc5fd36c8054ae8376e29744937e5bf15264f6e25da578e9d1ec831eda"
   },
   {
    "site": "god-doujin.com",
    "file": "god-doujin.com.json.gz",
-   "entries": 4590,
-   "crawled": "2026-10-27T09:17:57.82440763Z",
-   "sha256": "469d54cd6c71394bc52696eeaf339af69d68e133a4d1c1eae290fd14e5b4e464"
+   "entries": 4593,
+   "crawled": "2026-10-28T09:46:42.367674882Z",
+   "sha256": "210152cf54b3449512ce0c46487b9535c16e83663bf89bf62a8e1aa1611b0a65"
   },
   {
    "site": "godhman.net",
    "file": "godhman.net.json.gz",
    "entries": 1387,
-   "crawled": "2026-10-27T09:18:28.47349902Z",
-   "sha256": "f58c2f9d88971aa3ea99da99dde85d41a996669a8d7650ccdaec5969c0decf23"
+   "crawled": "2026-10-28T09:46:43.421210709Z",
+   "sha256": "d7d1d0fda8b4e47745eef1172f4507bda8e1e71037487893bb7dd1f20ab6cc11"
   },
   {
    "site": "gourmetsupremacy.com",
    "file": "gourmetsupremacy.com.json.gz",
    "entries": 99,
-   "crawled": "2026-10-27T09:19:07.498525853Z",
-   "sha256": "9e46144aec4ac467dd3a6e6f0dcff84f5547e0ec9d01527dd1ec8eb31920516c"
+   "crawled": "2026-10-28T09:47:32.320924348Z",
+   "sha256": "8ad95ce8e2de67c4be1718fb4003468d85c11e3f245ba9703ffcb8fccb4fcf6e"
   },
   {
    "site": "grabber.zone",
    "file": "grabber.zone.json.gz",
    "entries": 220,
-   "crawled": "2026-10-27T09:19:16.036345923Z",
-   "sha256": "2464cb55b5d8ddeec2f3041ee5a3c8f63833470f947fb78cc5da61e34a808e2c"
+   "crawled": "2026-10-28T09:46:57.530854525Z",
+   "sha256": "e2db9e302f8398052f9981456e15b8e57ee084c430821edac4b66ae8c7243a63"
   },
   {
    "site": "grimscans.com",
@@ -789,15 +789,15 @@
    "site": "heavenly-delusion.com",
    "file": "heavenly-delusion.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:15:32.24408736Z",
-   "sha256": "6a6f3a96531a0a5b3c754a297fe327dd5ad26a6e6779f0b8ec61125f49d6c784"
+   "crawled": "2026-10-28T09:46:54.445659491Z",
+   "sha256": "a298856294d9fd9a9bdd4e4a773d10331551384b95a54b565ca1872897388ecd"
   },
   {
    "site": "heavenmanga.com",
    "file": "heavenmanga.com.json.gz",
    "entries": 9255,
-   "crawled": "2026-10-27T09:16:15.53204954Z",
-   "sha256": "e95d5ab4d0e9f507817fc19b46c6021ee28bf3b332b6051bf2018ae291dfe654"
+   "crawled": "2026-10-28T09:47:01.642518931Z",
+   "sha256": "06651e2322c596c0d09aacb70a2e9b05672cf5d38624c821898d76fa9d728332"
   },
   {
    "site": "hennojin.com",
@@ -810,8 +810,8 @@
    "site": "hentai-scantrad.org",
    "file": "hentai-scantrad.org.json.gz",
    "entries": 830,
-   "crawled": "2026-10-27T09:17:18.861977111Z",
-   "sha256": "9d6411698f6ecbe4360c66386328a32e508e189e6b75d3d08e97954959c46e65"
+   "crawled": "2026-10-28T09:48:10.330957217Z",
+   "sha256": "cb50b154bd4d2a7223d5257d621c0793f1d9253777627f4afaf71aaf06f2a19e"
   },
   {
    "site": "hentai1.io",
@@ -824,15 +824,15 @@
    "site": "hentai20.io",
    "file": "hentai20.io.json.gz",
    "entries": 1711,
-   "crawled": "2026-10-27T09:16:47.948573928Z",
-   "sha256": "7c74a1189ebda2bd815fdd129ee8b84148c436e50546f1a02c69bdf0bfacb120"
+   "crawled": "2026-10-28T09:46:57.612173793Z",
+   "sha256": "325a795acd4303e635bfcc6760770e8f45b6f8b511bd184a419e12be8d58650d"
   },
   {
    "site": "hentai20.lol",
    "file": "hentai20.lol.json.gz",
    "entries": 2533,
-   "crawled": "2026-10-27T09:16:48.735377954Z",
-   "sha256": "b8674ec1fd1c849fc5ef91880e86b1152e36afe0271ea30b230211c765451859"
+   "crawled": "2026-10-28T09:46:58.572600688Z",
+   "sha256": "33494ebc5fc6b95b5468873dd34459f6ec22327f4b9445b2bf7d821bbcb29646"
   },
   {
    "site": "hentai4free.net",
@@ -844,9 +844,9 @@
   {
    "site": "hentaidesi.com",
    "file": "hentaidesi.com.json.gz",
-   "entries": 1257,
-   "crawled": "2026-10-27T09:16:54.761428755Z",
-   "sha256": "5bb9aa1bcb436059caf89f8dba17fdb26135aedd71dfdd8b089a44af5b325cd8"
+   "entries": 1276,
+   "crawled": "2026-10-28T09:47:05.148830711Z",
+   "sha256": "67fc0ef83a74b470bedf6cd523fb660ec78e18d72a70c47594e63eca65ab275c"
   },
   {
    "site": "hentaienvy.com",
@@ -879,23 +879,23 @@
   {
    "site": "hentaihand.com",
    "file": "hentaihand.com.json.gz",
-   "entries": 732010,
-   "crawled": "2026-10-27T09:28:30.428848248Z",
-   "sha256": "b5af798e6fb52a432f762c29b7af25a9294ac48f1a03708cca7f7ca6dd3cb2b0"
+   "entries": 732310,
+   "crawled": "2026-10-28T10:02:17.1182231Z",
+   "sha256": "616d18b05e63191b678baa44c834ef0a89c98c5ba60467fbf78130cac2faacfd"
   },
   {
    "site": "hentaihere.com",
    "file": "hentaihere.com.json.gz",
-   "entries": 42134,
-   "crawled": "2026-10-27T09:17:23.171594629Z",
-   "sha256": "f7b1c459731b50066b4dca25c3c784fd1727745c8dbb7655cee6a7a0fcec9e0e"
+   "entries": 42201,
+   "crawled": "2026-10-28T09:47:09.93319837Z",
+   "sha256": "38a47dd45b659b7e546cc4eb178e24ac1be0c69751aeabe2fb69aca5670c0a4e"
   },
   {
    "site": "hentaikisu.com",
    "file": "hentaikisu.com.json.gz",
    "entries": 86850,
-   "crawled": "2026-10-27T09:19:44.790477214Z",
-   "sha256": "08382a5bdcd5748ad3f385f53ca6e75297d89048e4bfe85256b567c7a1e2aed6"
+   "crawled": "2026-10-28T09:49:27.078844549Z",
+   "sha256": "7fcfa07247fad594425cf72585a1403030e66d9d4d4475a1656a921def10811c"
   },
   {
    "site": "hentaikun.com",
@@ -907,9 +907,9 @@
   {
    "site": "hentailoop.com",
    "file": "hentailoop.com.json.gz",
-   "entries": 64936,
-   "crawled": "2026-10-24T08:35:34.801691704Z",
-   "sha256": "ada3deeb40640efe3af34c39bec784284ef8a55691ca8ab9dfa4f9880be63a5f"
+   "entries": 65050,
+   "crawled": "2026-10-28T10:06:01.866501634Z",
+   "sha256": "6a9af3a316f83cf56ab2683f2f1c6f44cd78e1de61db36a7ec72608f89545796"
   },
   {
    "site": "hentainexus.com",
@@ -936,15 +936,15 @@
    "site": "hentaisco.cc",
    "file": "hentaisco.cc.json.gz",
    "entries": 1117,
-   "crawled": "2026-10-27T09:19:14.815249122Z",
-   "sha256": "da4eebb13e545e62345b6a68ee899c2dddedbaccee4032d7c031787b543150af"
+   "crawled": "2026-10-28T09:47:41.280234901Z",
+   "sha256": "dd677b7c7dde7d3417b2ee067aa7e1505ebe8f6fb1245016ae459b58dd5cc5f1"
   },
   {
    "site": "hentaiteca.online",
    "file": "hentaiteca.online.json.gz",
-   "entries": 341,
-   "crawled": "2026-10-27T09:19:36.374020902Z",
-   "sha256": "b601248ea28196954010ba4af3d77d4a30ee2e76e56e13143a96bca5777cb542"
+   "entries": 342,
+   "crawled": "2026-10-28T09:48:03.689245252Z",
+   "sha256": "54494b1be731b484690e60efb3c03ecf7d9c92b4963e9cf2b5f25909daaf24ee"
   },
   {
    "site": "hentaitnt.net",
@@ -956,23 +956,23 @@
   {
    "site": "hentaixcomic.com",
    "file": "hentaixcomic.com.json.gz",
-   "entries": 2481,
-   "crawled": "2026-10-27T09:19:51.328573756Z",
-   "sha256": "566b2b4f9c62d5c2055e2ff82f23366ce12b1b984c4d718dae8631cd2a74061f"
+   "entries": 2482,
+   "crawled": "2026-10-28T09:48:25.957796992Z",
+   "sha256": "6a14e8f74d59f0c0fc5e6b477860a37e88cd54c2f3a385d1e606dcac80d9787d"
   },
   {
    "site": "hentaixdickgirl.com",
    "file": "hentaixdickgirl.com.json.gz",
-   "entries": 2499,
-   "crawled": "2026-10-27T09:19:58.068784975Z",
-   "sha256": "c0fcdc90dd6e9df2e011e45e5ccc0fa4fd6ad759d6b0bd85ac9cf86e9f0803ef"
+   "entries": 2500,
+   "crawled": "2026-10-28T09:48:19.10671096Z",
+   "sha256": "3ae0f481284b9db790b0ff4cc5dfe9dbe3417ba31f93c5a4277fdee4900804a3"
   },
   {
    "site": "hentaixyuri.com",
    "file": "hentaixyuri.com.json.gz",
-   "entries": 2131,
-   "crawled": "2026-10-27T09:20:20.488073146Z",
-   "sha256": "01c75ea8a7f2fdd8eb6975a6d1ece4c2bd8f113467db1f49d322b6f15f7168c4"
+   "entries": 2132,
+   "crawled": "2026-10-28T09:48:33.242675534Z",
+   "sha256": "16d615e94a801a3fa034498449369232c2e3f47aa1a9cf0ac6cd8aab12f9c03d"
   },
   {
    "site": "hentaizap.com",
@@ -992,29 +992,29 @@
    "site": "hentara.com",
    "file": "hentara.com.json.gz",
    "entries": 1599,
-   "crawled": "2026-10-27T09:20:24.982829644Z",
-   "sha256": "29557e767efd2aecb3a4e55cd75ae730b2849ee86bbf84ff17604952093a73c3"
+   "crawled": "2026-10-28T09:48:25.765301264Z",
+   "sha256": "a8fa0befaa1fdd211c0eff27172c1f03afeea5fbb138f42ecedede86fe453096"
   },
   {
    "site": "hhentai.fr",
    "file": "hhentai.fr.json.gz",
-   "entries": 2295,
-   "crawled": "2026-10-27T09:23:00.008373357Z",
-   "sha256": "bb2cefa6f5587524d9b2a85be7fee270067d74d61c859d568d054bd8ad15a72e"
+   "entries": 2298,
+   "crawled": "2026-10-28T09:51:36.147372509Z",
+   "sha256": "4b659a70f1a9286ea170244fce469d08c75f7592e905bacaa29f4a23984a0802"
   },
   {
    "site": "hiperdex.tv",
    "file": "hiperdex.tv.json.gz",
    "entries": 4922,
-   "crawled": "2026-10-27T09:21:10.212052136Z",
-   "sha256": "ae8a4f88804793e9907f56812627ce3f9ffba987836ce8fbf26ab417bf460118"
+   "crawled": "2026-10-28T09:48:47.137452442Z",
+   "sha256": "79253577432304fef11f017fe5c819e9ce8a91f88079abd6e8b7b8c3edf897d5"
   },
   {
    "site": "hivetoons.org",
    "file": "hivetoons.org.json.gz",
    "entries": 328,
-   "crawled": "2026-10-27T09:19:27.831888343Z",
-   "sha256": "ccbb6c59aea04cc89fbfb419f9b377ea0785f6338f1f87d66b89b973ad50ff67"
+   "crawled": "2026-10-28T09:48:46.928442015Z",
+   "sha256": "64b3240fab8a57883b59edb515af7106f3cc53c41a23c8332206b6c8fc24832e"
   },
   {
    "site": "hni-scantrad.net",
@@ -1034,15 +1034,15 @@
    "site": "honeytoon.com",
    "file": "honeytoon.com.json.gz",
    "entries": 361,
-   "crawled": "2026-10-27T09:19:31.446828727Z",
-   "sha256": "f18ec3cdd58aa5b249d92e147b570ef61b5ef20bdf57a182c7ad15279817fe84"
+   "crawled": "2026-10-28T09:48:49.775867666Z",
+   "sha256": "c02d7881049c86f22cba52c7d354d6f3c9412b8e3d0d501ec4bab7cd9f8257f6"
   },
   {
    "site": "hotcabaretscan.com",
    "file": "hotcabaretscan.com.json.gz",
    "entries": 87,
-   "crawled": "2026-10-27T09:19:44.204324899Z",
-   "sha256": "c6e3039a23a60a1083b0c20ae51edeb7083c8ed0cd9ac7c709ec52ed206af82a"
+   "crawled": "2026-10-28T09:48:53.13148809Z",
+   "sha256": "4dabfcff14163583485c9c2a933fa3f9149270357730f3e7115b430737f36261"
   },
   {
    "site": "houseofotakusv2.xyz",
@@ -1055,8 +1055,8 @@
    "site": "hunlightcomics.com",
    "file": "hunlightcomics.com.json.gz",
    "entries": 32,
-   "crawled": "2026-10-27T09:19:55.945231424Z",
-   "sha256": "a083c29bc4629568f3a908616997986cb2b9414b8ec0e199d561bee3325813ee"
+   "crawled": "2026-10-28T09:48:56.454792908Z",
+   "sha256": "cf74857249faebdeaa6e415e7729feed80386aefe11974f8e0e7488511b81da0"
   },
   {
    "site": "hyakuro.net",
@@ -1069,8 +1069,8 @@
    "site": "ichicomi.com",
    "file": "ichicomi.com.json.gz",
    "entries": 791,
-   "crawled": "2026-10-27T09:20:04.736600025Z",
-   "sha256": "830601ecfa63f7c3c4db259467c3863b6e47d97e53a3dcfe65389ae7b6524ff4"
+   "crawled": "2026-10-28T09:48:57.999889612Z",
+   "sha256": "960efa15f42e26866eef800014b990326beacb926806e268bc399a9c8ffabd7d"
   },
   {
    "site": "ilikecomix.com",
@@ -1083,8 +1083,8 @@
    "site": "imanevilgod.com",
    "file": "imanevilgod.com.json.gz",
    "entries": 627,
-   "crawled": "2026-10-27T09:20:14.160036755Z",
-   "sha256": "e487ac587c8c1cef753d32b524045125718f2e67723757025cc4432184dd7afa"
+   "crawled": "2026-10-28T09:49:01.186830176Z",
+   "sha256": "1a58c02eabaeda2635b11ea229277b323245a57c6b37e63649b736f2c5b04e1a"
   },
   {
    "site": "imhentai.xxx",
@@ -1104,8 +1104,8 @@
    "site": "inmanga.com",
    "file": "inmanga.com.json.gz",
    "entries": 5249,
-   "crawled": "2026-10-27T09:20:52.517031749Z",
-   "sha256": "6e8108fd6ddc6bdb00ebcecd785715381fb0bf8f98eb67428b685bb5bd1910df"
+   "crawled": "2026-10-28T09:49:32.442288453Z",
+   "sha256": "afe1d8b4d6d4ab31bf740d783de875bb01be298411606831707856bd7b1d0741"
   },
   {
    "site": "inu-manga.net",
@@ -1118,15 +1118,15 @@
    "site": "inventariooculto.com",
    "file": "inventariooculto.com.json.gz",
    "entries": 37,
-   "crawled": "2026-10-27T09:20:28.159684145Z",
-   "sha256": "2acd9583ef978d94d7109e5975e80e42945c0387c57bda21e82a3c1d7cf9aa47"
+   "crawled": "2026-10-28T09:49:04.62848255Z",
+   "sha256": "27281c3ff1ea1bdf99dcc276cd954a0a87dc7258f9bb793e670351f249dbfe1d"
   },
   {
    "site": "izanamiscans.my.id",
    "file": "izanamiscans.my.id.json.gz",
    "entries": 316,
-   "crawled": "2026-10-27T09:20:32.268769807Z",
-   "sha256": "4b1b9da243ae17fb8427512d051d45f47831c3145c841790822c306f0558532d"
+   "crawled": "2026-10-28T09:49:06.008096559Z",
+   "sha256": "2d4585beb405baad27c5a63d88e27e0f64ce7cee4bc49ef7640edb0afe6c572e"
   },
   {
    "site": "jestful.net",
@@ -1139,15 +1139,15 @@
    "site": "jojolandsmanga.com",
    "file": "jojolandsmanga.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:20:52.530773867Z",
-   "sha256": "4949f259763c121ec5f92900dbcf487bf1ea5d71d17a7f7f527f92a16bb6724f"
+   "crawled": "2026-10-28T09:48:58.003954088Z",
+   "sha256": "3691bcc339dd593554206844ecff8ea00203deac83936434fd3f1c1b6f28fdfc"
   },
   {
    "site": "jujutsukaisenmanga.pro",
    "file": "jujutsukaisenmanga.pro.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:20:58.972619906Z",
-   "sha256": "3cd80609b452b3cb3cf600d055af2dec9a20da83310fcfb19e86c68503aa9d1b"
+   "crawled": "2026-10-28T09:49:06.009371651Z",
+   "sha256": "3fe3bd71f8651bd144695e1cb8b7c758878c372e7fd2c343ad1a2e4a3d0c4701"
   },
   {
    "site": "kagane.net",
@@ -1160,8 +1160,8 @@
    "site": "kanzenin.info",
    "file": "kanzenin.info.json.gz",
    "entries": 2388,
-   "crawled": "2026-10-27T09:19:45.05461839Z",
-   "sha256": "83f4955afe63bca859c14ce73b05ed87b7bfdeede5f702d9fcc16cc9c9f21d9d"
+   "crawled": "2026-10-28T09:49:14.036802705Z",
+   "sha256": "1a823b2fa99a0e8ca6ce7a971eb9a2b12edf6d04dc5b023241b7dd6e66edf399"
   },
   {
    "site": "kappabeast.com",
@@ -1174,22 +1174,22 @@
    "site": "kaynscans.com",
    "file": "kaynscans.com.json.gz",
    "entries": 436,
-   "crawled": "2026-10-27T09:20:19.638959332Z",
-   "sha256": "bb009ddc53cd2d462c6a4e72dfd5f5e40ef195064b8fb94315b275d22c64972b"
+   "crawled": "2026-10-28T09:49:46.55630861Z",
+   "sha256": "16d0d04c74da72e0ff31881b3aa2ceaed44283d50aef437d290dc30a14561f47"
   },
   {
    "site": "kazokuden.com",
    "file": "kazokuden.com.json.gz",
    "entries": 139,
-   "crawled": "2026-10-27T09:20:10.036899997Z",
-   "sha256": "a2133cbb5f5d85a171f746a44d9253eaa65a1bdd8dc61b8d6f33259f19d2e767"
+   "crawled": "2026-10-28T09:49:42.996791775Z",
+   "sha256": "cca604fdcf904140a61d7927b9c8f521e186a73452166006f28508b685354a17"
   },
   {
    "site": "kencomics.com",
    "file": "kencomics.com.json.gz",
    "entries": 278,
-   "crawled": "2026-10-27T09:20:21.384353902Z",
-   "sha256": "ce832f6b7c1b4c7cfe881ae6e0b27e43750142a4714709daa0310cf63b582510"
+   "crawled": "2026-10-28T09:49:40.316042265Z",
+   "sha256": "aef72366ba4d691e2f0a207ef03a11294aa70454813221aa1fc559bfebe91b04"
   },
   {
    "site": "kewnscans.org",
@@ -1209,36 +1209,36 @@
    "site": "kingofshojo.com",
    "file": "kingofshojo.com.json.gz",
    "entries": 4892,
-   "crawled": "2026-10-27T09:20:21.463942515Z",
-   "sha256": "65522b759bc3256500e160081a3737751089eee6d056d14ecba691e4ddf912bf"
+   "crawled": "2026-10-28T09:49:41.606583077Z",
+   "sha256": "1e98002c8d191c9652ea8e83b5bfce52362cc8ae71c5c49ff99a7ada3a512b43"
   },
   {
    "site": "kitsunedawn.com",
    "file": "kitsunedawn.com.json.gz",
-   "entries": 128,
-   "crawled": "2026-10-27T09:20:30.58361689Z",
-   "sha256": "4c991dbdf60f9ac8e19209d19dc3693f08b01401e44ce5993f2e5fd4fc5d21a9"
+   "entries": 132,
+   "crawled": "2026-10-28T09:49:44.278374207Z",
+   "sha256": "c6c23389f5d9aaba70bd1ec584bccd15a04eef2aa49b29bca4476f8309ceaff6"
   },
   {
    "site": "klikmanga.org",
    "file": "klikmanga.org.json.gz",
-   "entries": 10676,
-   "crawled": "2026-10-27T09:33:40.51621067Z",
-   "sha256": "f6a4eb19c88e68e131e82b9fe818570fa5816c5408fa0ecf2c354d0dfd430177"
+   "entries": 10682,
+   "crawled": "2026-10-28T10:03:28.62389826Z",
+   "sha256": "77fb0b472a3122f2df5051a3267305ea0e06efff958f166e0bc187571b74f61a"
   },
   {
    "site": "kokomangas.com",
    "file": "kokomangas.com.json.gz",
-   "entries": 80,
-   "crawled": "2026-10-27T09:20:58.971639694Z",
-   "sha256": "9c67ac87e5f1fdb04a6696eaf947c920e1b3e7ddc0163ccd470e775ef391720b"
+   "entries": 81,
+   "crawled": "2026-10-28T09:49:51.503186406Z",
+   "sha256": "0c4d127ac9a3e33d0ff2e0a9388c4a1051d6a4dc7cc74a67bc443abbec48e5f7"
   },
   {
    "site": "kombatch.cc",
    "file": "kombatch.cc.json.gz",
-   "entries": 3837,
-   "crawled": "2026-10-27T09:20:59.652625457Z",
-   "sha256": "e0d25ea205fe0fc0432ad1782260e61ed8d7d039f1d5ab880cc550e9e93f161e"
+   "entries": 3854,
+   "crawled": "2026-10-28T09:49:50.481744642Z",
+   "sha256": "880a7b7994f39728fa34d6f55bbcba3c40c65172c02e9c39a9cb645d505bd2b7"
   },
   {
    "site": "komikdewasa.art",
@@ -1250,9 +1250,9 @@
   {
    "site": "komikindo.ch",
    "file": "komikindo.ch.json.gz",
-   "entries": 9425,
-   "crawled": "2026-10-26T09:07:38.610106651Z",
-   "sha256": "e099331d11a192cbacb3f7128c90611132b1eb5c41e79e77dfdc922bd2b51f6c"
+   "entries": 9434,
+   "crawled": "2026-10-28T09:49:58.869212564Z",
+   "sha256": "bd0aaf0236df3c7695c5b64c1571573772b460662dc369ce8262aa08c072703f"
   },
   {
    "site": "komikmanga.com",
@@ -1265,64 +1265,64 @@
    "site": "komikmu.top",
    "file": "komikmu.top.json.gz",
    "entries": 2514,
-   "crawled": "2026-10-27T09:21:13.168494069Z",
-   "sha256": "1bedb8983987360cb92802058dea6232aadf05e0da981576995dff255c613e56"
+   "crawled": "2026-10-28T09:49:53.444408916Z",
+   "sha256": "30486093ae461382e9592df22911e55f96c2f80af80c12667ca6723ea4f63307"
   },
   {
    "site": "komikstation.org",
    "file": "komikstation.org.json.gz",
-   "entries": 9758,
-   "crawled": "2026-10-27T09:21:45.39090322Z",
-   "sha256": "5f94856c484d81033e61a81a64b338be54884d37bd9bfcffd63b887cef7b41db"
+   "entries": 9764,
+   "crawled": "2026-10-28T09:49:55.234772277Z",
+   "sha256": "89f47259f839a37fb403d8bafc3d705a7506fef6be1f29c2e78213231738d6ef"
   },
   {
    "site": "ksgroupscans.com",
    "file": "ksgroupscans.com.json.gz",
    "entries": 59,
-   "crawled": "2026-10-27T09:21:49.828097273Z",
-   "sha256": "bd2bed8bcd44675bff5492cc275afbf4e2e2a67780930df36c3c4d70c54cdf03"
+   "crawled": "2026-10-28T09:50:05.874549598Z",
+   "sha256": "2943164b9c565e258206dbbed746962493dd0f6ef3d41e31fc915e033eeca6a5"
   },
   {
    "site": "kunmanga.online",
    "file": "kunmanga.online.json.gz",
-   "entries": 95316,
-   "crawled": "2026-10-27T09:21:47.886264522Z",
-   "sha256": "b36830e2931be84a65a8bf0b66ae4cc8e823f3625bcdecdf35208f79280b5031"
+   "entries": 95342,
+   "crawled": "2026-10-28T09:50:07.945572854Z",
+   "sha256": "e0768c9846010a979e9284cf693ab43da84a5c2b50c21e75c1d62087013e2e8f"
   },
   {
    "site": "kuragebunch.com",
    "file": "kuragebunch.com.json.gz",
    "entries": 418,
-   "crawled": "2026-10-27T09:21:55.607810004Z",
-   "sha256": "94ca7a33f30d7696002a12947c7bad57343610d3806f95bbf331a2a8b2094b5c"
+   "crawled": "2026-10-28T09:50:11.271623627Z",
+   "sha256": "e0b379ff9847c7b201a3927ddde8c25395aac6d9628e2a2418d70c0e4b325619"
   },
   {
    "site": "kuramanga.com",
    "file": "kuramanga.com.json.gz",
    "entries": 4777,
-   "crawled": "2026-10-27T09:21:59.795590051Z",
-   "sha256": "21c65500ca5f2ae4b4dbd674273a5c8efe46e9906eb95e7eff0c18839977995f"
+   "crawled": "2026-10-28T09:50:13.649502115Z",
+   "sha256": "0081afdd446bc2e781b7024b6f7b95f66f90d0518b0552ce5ab4da1dfc8c089b"
   },
   {
    "site": "lagoonscans.com",
    "file": "lagoonscans.com.json.gz",
-   "entries": 162,
-   "crawled": "2026-10-27T09:21:11.099424808Z",
-   "sha256": "ee0c7245cdc144aeb7230a01ff9380593c7ba81db87ff196d65f90ac073c80a8"
+   "entries": 164,
+   "crawled": "2026-10-28T09:50:14.82955396Z",
+   "sha256": "54fba6f32f08d5fee13a31f9747eed1ca148be84de3c5122aea97419345dadd7"
   },
   {
    "site": "lectortaurus.com",
    "file": "lectortaurus.com.json.gz",
-   "entries": 583,
-   "crawled": "2026-10-27T09:21:44.358591594Z",
-   "sha256": "48e49ec56e9e9f7c337239a4ed8403813b00d5b03d8c1a7c763eb99becee8489"
+   "entries": 579,
+   "crawled": "2026-10-28T09:50:48.041140728Z",
+   "sha256": "ce0d2b27da1e0426bf9beb6a07605ad4bf8666020604f63f41fa5cb3da89c3c9"
   },
   {
    "site": "leercapitulo.co",
    "file": "leercapitulo.co.json.gz",
-   "entries": 28179,
-   "crawled": "2026-10-27T09:30:19.698621007Z",
-   "sha256": "38b8f07280042a0063abaf526e385948322993b665ab0c0241f38a6797aee9b5"
+   "entries": 28200,
+   "crawled": "2026-10-28T10:00:49.060638563Z",
+   "sha256": "a2b451e826baa61e93255bb62b8f464f518defffab429dffc29b6d751fff5c78"
   },
   {
    "site": "leitor.borutoexplorer.com.br",
@@ -1335,22 +1335,22 @@
    "site": "leitor.kamisama.com.br",
    "file": "leitor.kamisama.com.br.json.gz",
    "entries": 34,
-   "crawled": "2026-10-27T09:21:58.998284742Z",
-   "sha256": "8b6d32ee2fb81704f9872d98869a85b16dfd7759d58be1f3652ef6f38475201a"
+   "crawled": "2026-10-28T09:50:52.18595684Z",
+   "sha256": "a76e409d231ec36141a6b771dcf353004d47480e5db5c07d834d3635e91c479f"
   },
   {
    "site": "lelmanga.com",
    "file": "lelmanga.com.json.gz",
-   "entries": 477,
-   "crawled": "2026-10-27T09:22:00.302880206Z",
-   "sha256": "51a9a08f0ccfe48dc83d455e349dff4889e1ff3e2c150a491183b2fa62d7e7f2"
+   "entries": 523,
+   "crawled": "2026-10-28T09:50:52.942742359Z",
+   "sha256": "99856813e4300ab1446bf60c0275e497f85a022fecd1fc0a99d9f2d7843970f6"
   },
   {
    "site": "lelscanfr.com",
    "file": "lelscanfr.com.json.gz",
    "entries": 69,
-   "crawled": "2026-10-27T09:23:13.833245364Z",
-   "sha256": "a45fb5ed11166e04430003064bdfacd64c5de11c920df2093868e7710b468e11"
+   "crawled": "2026-10-28T09:50:53.494233177Z",
+   "sha256": "ca116cf9525ab21c771f90c7b176abf51ce46e030446d3094b5226dd861a38b5"
   },
   {
    "site": "lelscans.net",
@@ -1391,8 +1391,8 @@
    "site": "linkmanga.com",
    "file": "linkmanga.com.json.gz",
    "entries": 3744,
-   "crawled": "2026-10-27T09:32:08.129270271Z",
-   "sha256": "48a16a87d51232701a049e8daecca1d6b8c08e77054118a6fa414b514442c20b"
+   "crawled": "2026-10-28T10:01:47.350277247Z",
+   "sha256": "ad3524622de504a2411dff61aaa254f8438d2df80817303ebf69e333d8774491"
   },
   {
    "site": "lolobun.com",
@@ -1419,29 +1419,29 @@
    "site": "madaradex.org",
    "file": "madaradex.org.json.gz",
    "entries": 1429,
-   "crawled": "2026-10-27T09:23:13.451218477Z",
-   "sha256": "126a9e15ecac4fbc4c9a80c754bfb25be9fd998490845be2c343eeca1c89231c"
+   "crawled": "2026-10-28T09:52:57.847936065Z",
+   "sha256": "61187d0fac96a68a7580f223b72b6bad549b3345288e93e0eefa3c5b581bd2a0"
   },
   {
    "site": "madarascans.net",
    "file": "madarascans.net.json.gz",
    "entries": 412,
-   "crawled": "2026-10-27T09:24:07.149339779Z",
-   "sha256": "48bd44142c3a57ce6bb68710cf315aeca9e13ac58578f85cbf13196791ab474c"
+   "crawled": "2026-10-28T09:53:15.662911687Z",
+   "sha256": "f7e3c91407cb58809e31620f17e5ed75153277dd593255a2f3b7c844d76022f0"
   },
   {
    "site": "magcomi.com",
    "file": "magcomi.com.json.gz",
    "entries": 100,
-   "crawled": "2026-10-27T09:24:54.00937945Z",
-   "sha256": "13a8083776835243be28bef37bb1bcd5a655021504e9fbb7973f109e2237450a"
+   "crawled": "2026-10-28T09:53:17.659018823Z",
+   "sha256": "d2935cc902a23fabbaa743dfe7d44c15501f594a4a55cf9dd498139698367de2"
   },
   {
    "site": "magustoon.org",
    "file": "magustoon.org.json.gz",
-   "entries": 917,
-   "crawled": "2026-10-27T09:23:48.774994361Z",
-   "sha256": "e976ca5ed27bf12041a3dc71989795858f33afedcd923956f14bb7a47c8a29d6"
+   "entries": 918,
+   "crawled": "2026-10-28T09:53:51.599830358Z",
+   "sha256": "8b2bab06d1faf9125b20dcd2254117ed4ee455bdf5eeb8a97306da952959b454"
   },
   {
    "site": "mahoushoujobu.com",
@@ -1454,22 +1454,22 @@
    "site": "maid.my.id",
    "file": "maid.my.id.json.gz",
    "entries": 666,
-   "crawled": "2026-10-27T09:24:51.406161989Z",
-   "sha256": "ee03f8d4094419b470bfd5d3f643fd25849127a82987640deb302ee78be84287"
+   "crawled": "2026-10-28T09:53:54.622257668Z",
+   "sha256": "3a249a617ed15d8035248fe033aa52ce2cf71500c0dffe9f38ca3fa4171965a0"
   },
   {
    "site": "manga-lc.net",
    "file": "manga-lc.net.json.gz",
    "entries": 5796,
-   "crawled": "2026-10-27T09:28:00.980253426Z",
-   "sha256": "61a9356c8feda3d0cdd21aea0783e8da9d1110277c0b76a6989d67c4789b7b75"
+   "crawled": "2026-10-28T09:57:53.346459971Z",
+   "sha256": "5ded7e2572d241ffd4b63e89ca9fba24e9875b45dc3848db59b60406be331513"
   },
   {
    "site": "manga.adonisfansub.com",
    "file": "manga.adonisfansub.com.json.gz",
    "entries": 13,
-   "crawled": "2026-10-27T09:24:55.811377449Z",
-   "sha256": "3c85add9fa9dccde55e035e0f3537581cc1706f5cfedacbab23043e3b08f6aae"
+   "crawled": "2026-10-28T09:57:54.725914266Z",
+   "sha256": "4af30b218ce2d5c3bf49d90fdf9b9fd83f8725dadce92c1431cc5086d7b935de"
   },
   {
    "site": "manga.clone-army.org",
@@ -1496,8 +1496,8 @@
    "site": "manga.smuglo.li",
    "file": "manga.smuglo.li.json.gz",
    "entries": 43,
-   "crawled": "2026-10-27T09:24:54.439645068Z",
-   "sha256": "97efc8feefd7612ae7ad17ba5ea97caaeb69f0db07455931ca9e82740fb82bda"
+   "crawled": "2026-10-28T09:57:53.542553818Z",
+   "sha256": "4f508c0ab840a558a80a64778b61529c314aaa8a7937ee4b9879901a4feb0272"
   },
   {
    "site": "manga18.club",
@@ -1517,8 +1517,8 @@
    "site": "manga18free.com",
    "file": "manga18free.com.json.gz",
    "entries": 675,
-   "crawled": "2026-10-27T09:24:59.828947622Z",
-   "sha256": "772fe1cc6c9f1461a99f3524347ee31286d6ad552445ddbd7a8b13c02789821b"
+   "crawled": "2026-10-28T09:57:58.325535606Z",
+   "sha256": "40fd92dbc051efa3a68b91ce6b463ff3c6f3af03c4396b75e2ec6918b5a1fa6a"
   },
   {
    "site": "manga18fx.com",
@@ -1537,23 +1537,23 @@
   {
    "site": "mangabats.com",
    "file": "mangabats.com.json.gz",
-   "entries": 98437,
-   "crawled": "2026-10-27T09:05:06.524186634Z",
-   "sha256": "f1eea7c219e554b12a72a8846da23ff92393c2db36a282dc5e63d71b2550a18b"
+   "entries": 98463,
+   "crawled": "2026-10-28T09:58:24.216175517Z",
+   "sha256": "b667aef4f1ceefdcacaaef333adeda0d30ed06d5324c8a7fdb001928c6d8210e"
   },
   {
    "site": "mangaberri.com",
    "file": "mangaberri.com.json.gz",
    "entries": 421,
-   "crawled": "2026-10-27T09:05:04.127283014Z",
-   "sha256": "f4bbb37ba8a5f777015c80a4deb8858c2fec49ae883e372a92b3b11263864916"
+   "crawled": "2026-10-28T09:57:59.104328393Z",
+   "sha256": "c4890bc75a38de109e95a5f9468ecd874b291e971dd426e902d8c156271ca300"
   },
   {
    "site": "mangabolt.com",
    "file": "mangabolt.com.json.gz",
    "entries": 299,
-   "crawled": "2026-10-27T09:05:04.363366731Z",
-   "sha256": "d114090ff5596b9d1d267de5cc9cf3cf6f223d13e5945c2a6c2477a4fbd0b9e1"
+   "crawled": "2026-10-28T09:58:00.315624762Z",
+   "sha256": "130a492e5e84fc1a05621c8c5aea1292a54296753d317835577b4cc5056c04a9"
   },
   {
    "site": "mangack.com",
@@ -1566,8 +1566,8 @@
    "site": "mangacrazy.net",
    "file": "mangacrazy.net.json.gz",
    "entries": 899,
-   "crawled": "2026-10-27T09:05:08.088362417Z",
-   "sha256": "cc8a98f0600d43470916840d4dea20764515d9ab78d72bc3ea5ff098baeda35b"
+   "crawled": "2026-10-28T09:58:04.249047753Z",
+   "sha256": "1178fd46aedb014b7320aa04246f102f4fda8a321b4ef8e31057d18c6ea920e1"
   },
   {
    "site": "mangadass.com",
@@ -1587,15 +1587,15 @@
    "site": "mangadelsiglotvmanga.com.mx",
    "file": "mangadelsiglotvmanga.com.mx.json.gz",
    "entries": 28,
-   "crawled": "2026-10-27T09:05:04.848929823Z",
-   "sha256": "cbc4d24ee6f0d12bc060b3b1ea71a5b15869efc12c57aad4c7cc6ea6c5005a5b"
+   "crawled": "2026-10-28T09:58:04.604984315Z",
+   "sha256": "9eb668473cea6d291fc6d054045de1ece8b1a5dd1c745d3226d1ae6675aed98c"
   },
   {
    "site": "mangadenizi.net",
    "file": "mangadenizi.net.json.gz",
    "entries": 108,
-   "crawled": "2026-10-27T09:05:05.337043215Z",
-   "sha256": "53310d4f7b62aa373e1afef17677760894e09e1b93d7f7655b166b6272830939"
+   "crawled": "2026-10-28T09:58:05.56633943Z",
+   "sha256": "543c4d78cbd08d8dfef2447688074add27fa09063b0c6a1998e21e35d169440f"
   },
   {
    "site": "mangadex.org",
@@ -1607,9 +1607,9 @@
   {
    "site": "mangadistrict.com",
    "file": "mangadistrict.com.json.gz",
-   "entries": 4881,
-   "crawled": "2026-10-27T09:05:23.386080041Z",
-   "sha256": "027df3f5673ff5b42f2b45e597b628a79886ba25df2322e6cfecc1703636c8bb"
+   "entries": 4900,
+   "crawled": "2026-10-28T09:58:27.230604251Z",
+   "sha256": "6248a85f94d7b2f36bbd6bd8281013c3034542e8b5dbcd695b0dd7dd99359fea"
   },
   {
    "site": "mangadna.com",
@@ -1621,9 +1621,9 @@
   {
    "site": "mangadraft.com",
    "file": "mangadraft.com.json.gz",
-   "entries": 11732,
-   "crawled": "2026-10-27T09:05:10.541222383Z",
-   "sha256": "df5ba0a7f711945c8c1db1fac08a56b5f8fe6029f46e1f0194de513c58c01d14"
+   "entries": 11736,
+   "crawled": "2026-10-28T09:58:28.116977898Z",
+   "sha256": "513f6a6259696b8ce5ce70d91e9fd0964b933bf0e4b451bb5048b4b69dda03e8"
   },
   {
    "site": "mangadrama.com",
@@ -1636,8 +1636,8 @@
    "site": "mangaeclipse.com",
    "file": "mangaeclipse.com.json.gz",
    "entries": 17,
-   "crawled": "2026-10-27T09:05:12.657095977Z",
-   "sha256": "873a6c3750a4db9a42305441fab34c8fe4be42836b829e671c369a96275eb6c0"
+   "crawled": "2026-10-28T09:58:33.095290471Z",
+   "sha256": "f99117c86d33fcd3678f4abe272654b5f816e22aa1fa83bfcf353f3322b5fe3d"
   },
   {
    "site": "mangafire.to",
@@ -1657,8 +1657,8 @@
    "site": "mangaforfree.net",
    "file": "mangaforfree.net.json.gz",
    "entries": 1065,
-   "crawled": "2026-10-27T09:05:13.199667945Z",
-   "sha256": "1a1632cc398baa0c2e0e4528ca0774327585f6c0846345ededbf5b3b2e1da492"
+   "crawled": "2026-10-28T09:58:38.546658297Z",
+   "sha256": "584a4e1fa7a14fb665f2e55cd53e82f1aa223f2a032cc2680c866021b6132d81"
   },
   {
    "site": "mangafox.fun",
@@ -1670,9 +1670,9 @@
   {
    "site": "mangafree.info",
    "file": "mangafree.info.json.gz",
-   "entries": 848,
-   "crawled": "2026-10-27T09:05:55.316571105Z",
-   "sha256": "c1ab873fd813ccf539fdadd4f1e8c6b1c80ef03c74a92f6bd3ffb9adcd073179"
+   "entries": 852,
+   "crawled": "2026-10-28T09:59:31.217514649Z",
+   "sha256": "76262c99ed3a39ee969bcb5eedad6e9a0015c2d9b75fc7e7c92a5f550e48f6b5"
   },
   {
    "site": "mangagg.com",
@@ -1719,9 +1719,9 @@
   {
    "site": "mangakakalot.gg",
    "file": "mangakakalot.gg.json.gz",
-   "entries": 98437,
-   "crawled": "2026-10-27T09:05:19.362821383Z",
-   "sha256": "f29d5fb0eca878b9da39a76644c525b1c46dbecdfa202864455604ccaff453e2"
+   "entries": 98463,
+   "crawled": "2026-10-28T09:59:13.373101965Z",
+   "sha256": "02db66e3148af8b26090a362dc486733945e3e5f450539d1592df464ef1f8c1f"
   },
   {
    "site": "mangakatana.com",
@@ -1741,8 +1741,8 @@
    "site": "mangalami.com",
    "file": "mangalami.com.json.gz",
    "entries": 821,
-   "crawled": "2026-10-27T09:05:12.106064092Z",
-   "sha256": "a3a3bae3f8ae81f320379aab2a35e5321f83b3827bd85367aaa349e1701ac104"
+   "crawled": "2026-10-28T09:59:15.791912465Z",
+   "sha256": "5cffe8290d07cb61815fa02b2948ce55ac28e271a5daf31d29fa10cd7f617617"
   },
   {
    "site": "mangalib.me",
@@ -1755,22 +1755,22 @@
    "site": "mangalivre.to",
    "file": "mangalivre.to.json.gz",
    "entries": 150,
-   "crawled": "2026-10-27T09:05:35.117220523Z",
-   "sha256": "0c6eb15c1fac815a2d89067f5e2c3c36459e14206952d40ba9bf7987b80e2971"
+   "crawled": "2026-10-28T09:59:40.769577171Z",
+   "sha256": "0e276bba782ce6c9e35f9ee001d5c27a4665794a07a91ab5e0f67b4b42808d63"
   },
   {
    "site": "mangamaniacs.org",
    "file": "mangamaniacs.org.json.gz",
-   "entries": 2642,
-   "crawled": "2026-10-27T09:07:48.283018987Z",
-   "sha256": "b906ff195c069bfdbf0421625e5a2327834f0c4cdae8bc2693e8d156cce85801"
+   "entries": 2646,
+   "crawled": "2026-10-28T10:02:22.42908078Z",
+   "sha256": "f123dd84d03176eee10ba0b9209e6887a51c35d748e1c51dd4e49a67f015fac2"
   },
   {
    "site": "manganato.gg",
    "file": "manganato.gg.json.gz",
-   "entries": 98437,
-   "crawled": "2026-10-27T09:05:17.098387401Z",
-   "sha256": "1243531d314635290573e616612bc8b1417c581bf574497933220c179dde203f"
+   "entries": 98463,
+   "crawled": "2026-10-28T10:00:05.954808698Z",
+   "sha256": "41e26951d0f15d019805e8778b6eb014741057da235651b7f560378348c8e808"
   },
   {
    "site": "manganel.me",
@@ -1783,8 +1783,8 @@
    "site": "manganow.to",
    "file": "manganow.to.json.gz",
    "entries": 2850,
-   "crawled": "2026-10-27T09:07:29.963848705Z",
-   "sha256": "5355039348c78156a6d9cd15e730ac1f8fe80e58aac613b7ce6e70d31b9f0c99"
+   "crawled": "2026-10-28T10:02:30.270777896Z",
+   "sha256": "910f3be220cc783894beef45fd862cc017b5bc53691258fcfb5aff160ce93801"
   },
   {
    "site": "mangaonline.fun",
@@ -1803,9 +1803,9 @@
   {
    "site": "mangapark.cc",
    "file": "mangapark.cc.json.gz",
-   "entries": 5000,
-   "crawled": "2026-10-27T09:05:29.548597624Z",
-   "sha256": "8736b953e7ca14f62ba616149a96386ac4d8adf6bf3aac2001ac18831e8693c9"
+   "entries": 5100,
+   "crawled": "2026-10-28T10:00:57.12385258Z",
+   "sha256": "636a1577952dd63adb230bfb03fc43d26894f14b9c507657a19a31afba054e88"
   },
   {
    "site": "mangapark.tv",
@@ -1818,29 +1818,29 @@
    "site": "mangapill.com",
    "file": "mangapill.com.json.gz",
    "entries": 7135,
-   "crawled": "2026-10-27T09:05:24.777233069Z",
-   "sha256": "18256a9ecfa02fd1bdb8b0586cb7d38e224ecb76941d5a50d13eae8d7f8f966f"
+   "crawled": "2026-10-28T10:00:59.490652031Z",
+   "sha256": "dfc509be7b849c9132fde77827c41a7e46d34108519c1b4f183cdd943335e477"
   },
   {
    "site": "mangaplus-creators.jp",
    "file": "mangaplus-creators.jp.json.gz",
-   "entries": 32532,
-   "crawled": "2026-10-27T09:05:31.065930755Z",
-   "sha256": "d3d4324991c5df7fb8893af0af57c19e884a73c56522898c24df3ac5a75d11ac"
+   "entries": 32561,
+   "crawled": "2026-10-28T10:01:04.533439783Z",
+   "sha256": "439d297e8e536a2f1b671976d730e3023ae1424887e1d3201631b9df88cd04d2"
   },
   {
    "site": "mangaplus.shueisha.co.jp",
    "file": "mangaplus.shueisha.co.jp.json.gz",
    "entries": 748,
-   "crawled": "2026-10-27T09:05:29.412968459Z",
-   "sha256": "9e7b89890aec70d6d5291ee5f5bbcb863d462d02994188a6061383768c9612d3"
+   "crawled": "2026-10-28T10:01:05.344467105Z",
+   "sha256": "6452b74edb0f551e1cd84f36e00b63711e927e2b5ad83000006fbe720a4eb9cf"
   },
   {
    "site": "mangaread.org",
    "file": "mangaread.org.json.gz",
-   "entries": 3252,
-   "crawled": "2026-10-27T09:10:08.257751846Z",
-   "sha256": "d3639ac501f71dd82c8db2b9590998e21edf90686cae4cc6520074bc8d29daa0"
+   "entries": 3253,
+   "crawled": "2026-10-28T10:06:45.143438735Z",
+   "sha256": "a2fa88a617893d47aea475eb078aa0c733693bea97e58bc148408aca8e4976ae"
   },
   {
    "site": "mangareader.site",
@@ -1860,22 +1860,22 @@
    "site": "mangastep.com",
    "file": "mangastep.com.json.gz",
    "entries": 1081,
-   "crawled": "2026-10-27T09:05:30.980826973Z",
-   "sha256": "0106f1401b4875b652947d3f7a47339a2a06317b3bbfe4677b3280e38f72bd67"
+   "crawled": "2026-10-28T10:01:48.490748064Z",
+   "sha256": "8e65b97594ae2c2434033db4f6a5564cae7ab58cf726b8f303311c23532823fc"
   },
   {
    "site": "mangasushi.org",
    "file": "mangasushi.org.json.gz",
    "entries": 48,
-   "crawled": "2026-10-27T09:05:36.584080491Z",
-   "sha256": "8aa1459563461b97d1377432fe41e4e3270e4d14c83b7af70831549862728d29"
+   "crawled": "2026-10-28T10:01:53.819630751Z",
+   "sha256": "57230563a36f2324b866a518e2e0a8abad70b28410fba8852a22c7e8c5166b28"
   },
   {
    "site": "mangasusuku.com",
    "file": "mangasusuku.com.json.gz",
    "entries": 1759,
-   "crawled": "2026-10-27T09:05:34.971680646Z",
-   "sha256": "76a72e41f0af5811032cdae711841f9ecab9c93f766aa8c49623426bafeaa05e"
+   "crawled": "2026-10-28T10:01:58.217249882Z",
+   "sha256": "5b1088ab6669ff5c65450dd211c4e40d06d8ba85e8cdb674e8369d3b8bebfe72"
   },
   {
    "site": "mangataro.org",
@@ -1888,8 +1888,8 @@
    "site": "mangatime-square.com",
    "file": "mangatime-square.com.json.gz",
    "entries": 24,
-   "crawled": "2026-10-27T09:05:36.105688471Z",
-   "sha256": "c810bfc4c1910c4cff23b5e151f026e8cf2ef7c041ef572af7c4e4cd1cc07afc"
+   "crawled": "2026-10-28T10:01:59.481944945Z",
+   "sha256": "7df4778e128323b4a5d1e49a2fd14eb87705f0121f0e35fde8c19549c30f328c"
   },
   {
    "site": "mangatoday.fun",
@@ -1908,58 +1908,58 @@
   {
    "site": "mangatown.com",
    "file": "mangatown.com.json.gz",
-   "entries": 41683,
-   "crawled": "2026-10-27T09:05:37.819555458Z",
-   "sha256": "b0ee5de15483c88b1abaa7a62c4ab03a1fce15d8b2166eaf8da34b069f76486b"
+   "entries": 41692,
+   "crawled": "2026-10-28T10:02:00.056881028Z",
+   "sha256": "8af44c7954c534a261be9fc10bd90b72db01865fdae82441978f964dc7618fa5"
   },
   {
    "site": "mangatrend.org",
    "file": "mangatrend.org.json.gz",
    "entries": 27,
-   "crawled": "2026-10-27T09:05:43.516637719Z",
-   "sha256": "fac2829625a72326278e978d49f47d1b5971a2d7bb6798c98d73542ca797b6b1"
+   "crawled": "2026-10-28T10:02:06.109026423Z",
+   "sha256": "5506a0ce383ed46642c79f90382f1e11103d65d9f20ca91993711cfce86ab9f5"
   },
   {
    "site": "mangavault.lat",
    "file": "mangavault.lat.json.gz",
-   "entries": 1612,
-   "crawled": "2026-10-27T09:05:50.209486539Z",
-   "sha256": "ce07160ff92b4252a4bc578c7c9b2a23a7a81ecebf6394308105925ca5daba48"
+   "entries": 1614,
+   "crawled": "2026-10-28T10:02:24.112097547Z",
+   "sha256": "583bacf6bb1be4b7f8e9a1dc1da8f51ee70a5e3beae5d9cb68d3474392653285"
   },
   {
    "site": "mangaworld.mx",
    "file": "mangaworld.mx.json.gz",
-   "entries": 3321,
-   "crawled": "2026-10-27T09:06:02.067202216Z",
-   "sha256": "ba1f629e9042bff8f54754d08d4baeccdba1050388b043d71b27bc7fba00b863"
+   "entries": 3323,
+   "crawled": "2026-10-28T10:02:48.519494492Z",
+   "sha256": "aab2c5c4c42befdc7f3826b42baff458258b538980e7be1cadbe5285d57d5cf2"
   },
   {
    "site": "mangawow.org",
    "file": "mangawow.org.json.gz",
    "entries": 576,
-   "crawled": "2026-10-27T09:06:19.560397335Z",
-   "sha256": "b0f1dd15eb604000e72fb0f63f754cc7d2eba5d2dda5c27ac92573b09f94d247"
+   "crawled": "2026-10-28T10:03:03.48173174Z",
+   "sha256": "0641cf3110e4d9a4ed3da9233ba97a1fbb93b5725784acc3c88de3bd04601f6b"
   },
   {
    "site": "mangaxhentai.com",
    "file": "mangaxhentai.com.json.gz",
    "entries": 2615,
-   "crawled": "2026-10-27T09:07:02.977980714Z",
-   "sha256": "b8c50b27a19a7a7827233a140918c2f414e670ec98d1be43b4728de2e542d458"
+   "crawled": "2026-10-28T10:05:56.013649539Z",
+   "sha256": "8d1bb10802e722f3fd57f9accf26aea935b7f4a027e62f0cc81f07b6d0a5cfb4"
   },
   {
    "site": "mangazin.org",
    "file": "mangazin.org.json.gz",
    "entries": 7456,
-   "crawled": "2026-10-27T09:20:50.152000403Z",
-   "sha256": "e0df2b9421cb22bdbc1479855629a4dfee1fe5256704fd472ed20d92e6926e74"
+   "crawled": "2026-10-28T10:16:45.231216275Z",
+   "sha256": "d57642079915895a357e2cd1b4529cfb4d4e80b3afe63a69469fc33a1cecdbdf"
   },
   {
    "site": "manhuabug.com",
    "file": "manhuabug.com.json.gz",
    "entries": 1047,
-   "crawled": "2026-10-27T09:07:16.567699334Z",
-   "sha256": "4d0bf317686b5bb2bb3ce747e714e2698a88ad23a0348d04cf43b7e2b62f74a0"
+   "crawled": "2026-10-28T10:04:17.124996604Z",
+   "sha256": "d11cc4e4a714bb5b90c991606434407ad30345eb62d1693726aeb15130fe1c29"
   },
   {
    "site": "manhuahot.com",
@@ -1972,15 +1972,15 @@
    "site": "manhuanext.com",
    "file": "manhuanext.com.json.gz",
    "entries": 54,
-   "crawled": "2026-10-27T09:06:07.380524107Z",
-   "sha256": "90fb260508d87317191529e314538c34443aa6e5fcba96c66efdafaa0f8786d7"
+   "crawled": "2026-10-28T10:03:10.170617157Z",
+   "sha256": "0d0c58b95b536733bff4fd4dc7218243443a89af6aa94e422d2a3207ae31fe5a"
   },
   {
    "site": "manhuaplus.com",
    "file": "manhuaplus.com.json.gz",
    "entries": 138,
-   "crawled": "2026-10-27T09:06:22.327914221Z",
-   "sha256": "f412a178676662d185900bff7643c72b783ffc782abf1608152efcf0dcd59b30"
+   "crawled": "2026-10-28T10:03:25.256407914Z",
+   "sha256": "3bfa1de7ed1814fe427059fa0b50882841bcf3e99922b73f835374d54d5d72d0"
   },
   {
    "site": "manhuaplus.org",
@@ -2014,8 +2014,8 @@
    "site": "manhwa18.net",
    "file": "manhwa18.net.json.gz",
    "entries": 2338,
-   "crawled": "2026-10-27T09:06:50.548514515Z",
-   "sha256": "a90aed1760e6f722e22590a4c3fb4cfee57d5dddc164a295ae9cb0bee1e3ad00"
+   "crawled": "2026-10-28T10:03:57.481703641Z",
+   "sha256": "13c2b21448742f758c92f1139181c04e043b166000d929b64c1f2b63f5e109b1"
   },
   {
    "site": "manhwa18tx.com",
@@ -2042,29 +2042,29 @@
    "site": "manhwaclub.net",
    "file": "manhwaclub.net.json.gz",
    "entries": 653,
-   "crawled": "2026-10-27T09:06:25.923400325Z",
-   "sha256": "9a53baa4fb07a3081365fc6fe119f7e6782b87c105170b51392543010a03e1be"
+   "crawled": "2026-10-28T10:03:32.963931488Z",
+   "sha256": "4ab2fcccbce60a196bdb717f021b1228704efc188293c808359e1d131c279010"
   },
   {
    "site": "manhwaddict.com",
    "file": "manhwaddict.com.json.gz",
-   "entries": 1006,
-   "crawled": "2026-10-27T09:06:26.85080388Z",
-   "sha256": "24ba34df7eaa9719e6f7af35c322bf7f1ec0bb2f0d34276e48f3d8766be0b937"
+   "entries": 1011,
+   "crawled": "2026-10-28T10:03:34.167544428Z",
+   "sha256": "239f38ccff9e933ab297884c494301eeb5c45f94809227681e6d110260cf5eb2"
   },
   {
    "site": "manhwaden.com",
    "file": "manhwaden.com.json.gz",
-   "entries": 1950,
-   "crawled": "2026-10-27T09:06:32.972206783Z",
-   "sha256": "5d4d338934b6f6029fc38b68fb0de2019cac0dfe2004d6ab986172b51f3d69f1"
+   "entries": 1953,
+   "crawled": "2026-10-28T10:03:39.944706262Z",
+   "sha256": "0475b188fbcba7a8041ba550c0231cad594d7481baa5f10b0d2df9a8217fdfa0"
   },
   {
    "site": "manhwadesu.wiki",
    "file": "manhwadesu.wiki.json.gz",
    "entries": 5014,
-   "crawled": "2026-10-27T09:06:35.339931244Z",
-   "sha256": "1060274e8cf505de38660225c2ba1d3c189e3d409747747a54432f223da52158"
+   "crawled": "2026-10-28T10:03:42.785033942Z",
+   "sha256": "34b32f5cfc961c72d1d401f3c19d85534a1ed49b5817b44c4ebef966de7e134d"
   },
   {
    "site": "manhwagalaxy.com",
@@ -2076,9 +2076,9 @@
   {
    "site": "manhwahub.to",
    "file": "manhwahub.to.json.gz",
-   "entries": 1161,
-   "crawled": "2026-10-27T09:07:13.41870359Z",
-   "sha256": "e1732b5939cd0089ae4d37fc547fe20d58e07d6bf77eb6366500d079dc72f241"
+   "entries": 1165,
+   "crawled": "2026-10-28T10:04:15.673675257Z",
+   "sha256": "d71f1a39e5ed0011e3e19ac0fd09f2415d43a45f09daca81d6ce1a2b53ae298f"
   },
   {
    "site": "manhwalike.com",
@@ -2091,8 +2091,8 @@
    "site": "manhwanex.com",
    "file": "manhwanex.com.json.gz",
    "entries": 131,
-   "crawled": "2026-10-27T09:06:55.929239061Z",
-   "sha256": "e8282743ef35dac5a5179d1a4fa0bd850183080b6d4870051c2c3784e37cb982"
+   "crawled": "2026-10-28T10:04:03.558986234Z",
+   "sha256": "6e163ffa8daf65066f6947fa948b631300cfc4eb582bed1783b10e181c6c6d82"
   },
   {
    "site": "manhwaonline.org",
@@ -2105,8 +2105,8 @@
    "site": "manhwareads.com",
    "file": "manhwareads.com.json.gz",
    "entries": 61,
-   "crawled": "2026-10-27T09:06:58.578165016Z",
-   "sha256": "01f04c4920ff71da4a5709bbf90c1d7cf52c3d66f990602673265c43617c3fc3"
+   "crawled": "2026-10-28T10:04:08.737885139Z",
+   "sha256": "2c0a62fba056c52366fb6b113a74f1feb202042341b7080c942fb97758dcdb25"
   },
   {
    "site": "manhwatoon.me",
@@ -2132,30 +2132,30 @@
   {
    "site": "manta.net",
    "file": "manta.net.json.gz",
-   "entries": 3332,
-   "crawled": "2026-10-27T09:06:59.823249001Z",
-   "sha256": "8ca8805fd576601fc344557d7a163b7eb48f1b3b5c71224c5708e4733a1d9335"
+   "entries": 3368,
+   "crawled": "2026-10-28T10:04:09.89816031Z",
+   "sha256": "49072b1c6d6a84fbed089be66ebb9de77c3657f050b5acdf7cbf1f0e59ecd50a"
   },
   {
    "site": "mgeko.cc",
    "file": "mgeko.cc.json.gz",
-   "entries": 8230,
-   "crawled": "2026-10-27T09:07:03.169760979Z",
-   "sha256": "30fa0b3fb31325c1413dd1ae3f8283a5d8d24335344d4a20ae1862d79b5eec35"
+   "entries": 8236,
+   "crawled": "2026-10-28T10:04:13.061245433Z",
+   "sha256": "8abe152eed2c70f9501e3682a7b6f9798302ff08c96a675eff3f0bb1bc55af57"
   },
   {
    "site": "mihentai.net",
    "file": "mihentai.net.json.gz",
    "entries": 686,
-   "crawled": "2026-10-27T09:07:03.497972593Z",
-   "sha256": "b04cd8c7fe870ba2c3d948de1f07535b3a71eead9b0b0bbafd047bc7e6611faf"
+   "crawled": "2026-10-28T10:04:13.882180088Z",
+   "sha256": "4ad9445d083bfe7f8936034faff659974751e6ed4666ca5df286786056f4d80a"
   },
   {
    "site": "mindafansub.dev",
    "file": "mindafansub.dev.json.gz",
    "entries": 336,
-   "crawled": "2026-10-27T09:07:36.238573491Z",
-   "sha256": "d1ae52343038d804905d60ef89513f05a4ec7c238fc06bbba229a1f336c4eabc"
+   "crawled": "2026-10-28T10:07:19.034778345Z",
+   "sha256": "ee54d2f9851de0ed808937954db5605d9088dfa82110c266fe92af18be4b8954"
   },
   {
    "site": "mistscans.com",
@@ -2175,8 +2175,8 @@
    "site": "monopolymanhua.com",
    "file": "monopolymanhua.com.json.gz",
    "entries": 55,
-   "crawled": "2026-10-27T09:07:07.403175087Z",
-   "sha256": "0a0f6aac8eb4372214772a1fda3ac99252ce6b5fe98465cb2a01d0a0d8e47edf"
+   "crawled": "2026-10-28T10:04:20.215188075Z",
+   "sha256": "be2a1580a3292539e1312aaada0ca6a00719a697612bc6cc2e32dc417e60ca12"
   },
   {
    "site": "montetaiscanlator.xyz",
@@ -2188,23 +2188,23 @@
   {
    "site": "multporn.net",
    "file": "multporn.net.json.gz",
-   "entries": 5799,
-   "crawled": "2026-10-25T06:08:42.038765196Z",
-   "sha256": "a60d23f40531231c1cb23d9bca6f5b3b320c6347d24426eac2f7e821e4104294"
+   "entries": 6780,
+   "crawled": "2026-10-28T10:04:47.029965234Z",
+   "sha256": "af24b1ca2d67225a5d8d84496695d1914beddec6f45ad97c566aa44d69c259b3"
   },
   {
    "site": "mundomanhwa.com",
    "file": "mundomanhwa.com.json.gz",
    "entries": 417,
-   "crawled": "2026-10-27T09:08:07.861368882Z",
-   "sha256": "4a77fd28d6aefbc9ad98a60ef694813d8147eaa1988130d47c6c3f4c2a940e60"
+   "crawled": "2026-10-28T10:05:02.941978206Z",
+   "sha256": "93b749b6615ed87d3d452cc94b7e2c501c448768c50280db4f3fb9c0632ecfc3"
   },
   {
    "site": "murimscans.site",
    "file": "murimscans.site.json.gz",
    "entries": 12,
-   "crawled": "2026-10-27T09:07:32.679423418Z",
-   "sha256": "e89eb2e170a12c1021ee0c5c9e5efca07f25dbc6652400a2197ea2282ccc6b2e"
+   "crawled": "2026-10-28T10:04:47.242144626Z",
+   "sha256": "6f3312e577e21368d02978517affe748e14af6ae9ba5c7876149733e68d94640"
   },
   {
    "site": "myadultcomics.com",
@@ -2238,8 +2238,8 @@
    "site": "nabicix.com",
    "file": "nabicix.com.json.gz",
    "entries": 51,
-   "crawled": "2026-10-25T09:51:03.450169824Z",
-   "sha256": "364f27edc7f248d1bb883483645539760ece0ff6f832a4981563001c3c6f41ab"
+   "crawled": "2026-10-28T10:04:47.68023837Z",
+   "sha256": "c7f32e179dd05f53f31c2557742406748809d4d86f2133763ce8c3aeba265e98"
   },
   {
    "site": "namicomi.com",
@@ -2251,37 +2251,37 @@
   {
    "site": "natomanga.com",
    "file": "natomanga.com.json.gz",
-   "entries": 98437,
-   "crawled": "2026-10-27T09:07:43.424864198Z",
-   "sha256": "6a228ada37f28db8bcf671315f71f0731aba6ee1de1173cd353836bef388ed04"
+   "entries": 98463,
+   "crawled": "2026-10-28T10:05:11.241684765Z",
+   "sha256": "5b42610425e859b5bf837c70e4c575fa769254f46eedd63aa587e64a1d1b1a26"
   },
   {
    "site": "natsu.one",
    "file": "natsu.one.json.gz",
-   "entries": 6899,
-   "crawled": "2026-10-27T09:07:41.812202021Z",
-   "sha256": "82d5771cc1774ead1a16928f837327358cd7d84c6f7d93c893b9a86c30278dbb"
+   "entries": 6913,
+   "crawled": "2026-10-28T10:05:09.365204535Z",
+   "sha256": "76d9929f718e3585249ad50e6713dce5fef9433f91e8a9cd38824d0a68643668"
   },
   {
    "site": "nebulosascan.com",
    "file": "nebulosascan.com.json.gz",
    "entries": 38,
-   "crawled": "2026-10-27T09:07:50.870210416Z",
-   "sha256": "9b668c4924996d2183ed405c3d60a639eb4a3cc3f90c56d76eab6e1f062b808d"
+   "crawled": "2026-10-28T10:05:13.561359874Z",
+   "sha256": "23aa0e7a0bb40ef334e0e691515733142ea5607bc86a5d31ab8af66c4dec103a"
   },
   {
    "site": "nekoproject.org",
    "file": "nekoproject.org.json.gz",
    "entries": 56,
-   "crawled": "2026-10-27T09:07:42.425151377Z",
-   "sha256": "f941c31ba3b97bfa4f1cc74dde2c45e1003e09e8e400d087e29c68aa383e5f5f"
+   "crawled": "2026-10-28T10:05:12.038729322Z",
+   "sha256": "43a74120f7157ca97fafc3133823518d8011c010dea19ead04427b653a5f0d7d"
   },
   {
    "site": "nhaduong.com",
    "file": "nhaduong.com.json.gz",
-   "entries": 227,
-   "crawled": "2026-10-27T09:07:52.648550626Z",
-   "sha256": "df3abf19f6fecf113f480066e8bda3a7287611e4a2aca501f8996e1f07a137f6"
+   "entries": 228,
+   "crawled": "2026-10-28T10:05:22.24663346Z",
+   "sha256": "e1acfac178870ed1781e92dab86e051d9ac866fa9ffe5684165186cce95f3918"
   },
   {
    "site": "nhentai.com",
@@ -2294,8 +2294,8 @@
    "site": "nhentai.to",
    "file": "nhentai.to.json.gz",
    "entries": 666362,
-   "crawled": "2026-10-27T09:08:21.103967104Z",
-   "sha256": "c3ba4bc93a155db159912d334f142f9499c3943b1241b53dc1737b00d4f90292"
+   "crawled": "2026-10-28T10:05:54.809374848Z",
+   "sha256": "98e7030406e575df7f841a9f56dad29135d5d88d737d3f89b5c256c96cb13afa"
   },
   {
    "site": "nhentai.xxx",
@@ -2308,8 +2308,8 @@
    "site": "niji-translations.com",
    "file": "niji-translations.com.json.gz",
    "entries": 112,
-   "crawled": "2026-10-27T09:07:59.985215075Z",
-   "sha256": "b54ba686b61ff82d8269a4214da906369b3355c270139bbdf3c0476beed8ffd3"
+   "crawled": "2026-10-28T10:05:32.296285741Z",
+   "sha256": "75a31c6cf916d8a214e0d8de4f49896e68d28099b81136af5fed172d0abb4606"
   },
   {
    "site": "ninjacomics.xyz",
@@ -2322,22 +2322,22 @@
    "site": "nirvanamanga.com",
    "file": "nirvanamanga.com.json.gz",
    "entries": 26,
-   "crawled": "2026-10-27T09:07:52.633801625Z",
-   "sha256": "27a0d55846c51835fd1da8e450d9c86328b12f5c19f23eb15254765725ceb514"
+   "crawled": "2026-10-28T10:05:34.461980141Z",
+   "sha256": "efd2b13b27c5596f9d8132821d35672b4548fb22d7e20ec68a817e04572d3531"
   },
   {
    "site": "nocfsb.com",
    "file": "nocfsb.com.json.gz",
-   "entries": 701,
-   "crawled": "2026-10-27T09:08:15.456490267Z",
-   "sha256": "690d38d2d953ea134ca244c80171f94394271d65b68b2eb82c9c54f67ff32e8e"
+   "entries": 702,
+   "crawled": "2026-10-28T10:06:05.213843274Z",
+   "sha256": "d8dbf525471b594ae43fe651f02ac0a96508638c27d7491d4e4eddc23fb9866f"
   },
   {
    "site": "noranofansub.com",
    "file": "noranofansub.com.json.gz",
    "entries": 79,
-   "crawled": "2026-10-27T09:08:07.801171357Z",
-   "sha256": "7a50338a59805c124b8c99f625093c1c2147438c4be8f95c024e0f4ccad9e276"
+   "crawled": "2026-10-28T10:06:10.3018638Z",
+   "sha256": "732128b8acfda5d4cfb3ba41fc7e93e750b460b6c896d576120e9a2db01688fa"
   },
   {
    "site": "novelcool.com",
@@ -2357,8 +2357,8 @@
    "site": "nuviatoon.net",
    "file": "nuviatoon.net.json.gz",
    "entries": 39,
-   "crawled": "2026-10-27T09:08:00.215143301Z",
-   "sha256": "f058d2084283718c24ffb4bd19e728142fe68ceca1241d61a666229ec7facf2b"
+   "crawled": "2026-10-28T10:05:56.541095438Z",
+   "sha256": "0d9a72d5491f11fd8b7532abe05676a2a1cbaa6b021d45d1d630af96e0a7b262"
   },
   {
    "site": "nyanukafe.com",
@@ -2370,16 +2370,16 @@
   {
    "site": "nyraxmanga.com",
    "file": "nyraxmanga.com.json.gz",
-   "entries": 2287,
-   "crawled": "2026-10-27T09:08:02.176589725Z",
-   "sha256": "e321efb74a1ba6232b2bebf51a61fd99b7ccdfbea6344f52ac79bdc809edfe5e"
+   "entries": 2288,
+   "crawled": "2026-10-28T10:05:59.211163469Z",
+   "sha256": "db75666f4e0301746f8b153a5fd79ac9986fd58dc9eaf39a1410a024a5d66588"
   },
   {
    "site": "nyxscans.com",
    "file": "nyxscans.com.json.gz",
-   "entries": 791,
-   "crawled": "2026-10-27T09:08:31.783704112Z",
-   "sha256": "e514c85b0c231e3ff3fcc81c13debcc53b827905a4dcba75d2d096d16711ef0e"
+   "entries": 793,
+   "crawled": "2026-10-28T10:06:31.256279819Z",
+   "sha256": "b42a23592e7db67a234ce7f02e2f317547cda79a671b7fd5db594f55fcde0bb2"
   },
   {
    "site": "octopusmanga.com",
@@ -2392,8 +2392,8 @@
    "site": "omegascans.org",
    "file": "omegascans.org.json.gz",
    "entries": 299,
-   "crawled": "2026-10-27T09:08:04.700918764Z",
-   "sha256": "913c9c24ced61751ba93664246b723c3cf9901c699f5147156c7ebe3129858eb"
+   "crawled": "2026-10-28T10:06:05.510148208Z",
+   "sha256": "02d63ea0d197d34a81a59e640da02442b4b8f3e47ee69b5deeaa39763111d33b"
   },
   {
    "site": "omoi.com",
@@ -2413,8 +2413,8 @@
    "site": "onlythebesthentai.com",
    "file": "onlythebesthentai.com.json.gz",
    "entries": 221,
-   "crawled": "2026-10-27T09:08:16.288342423Z",
-   "sha256": "3138cde8b65fe0802c4bb5dda0b36ca46e5c84c2500baa84787280df5f0e1ee5"
+   "crawled": "2026-10-28T10:06:11.398390524Z",
+   "sha256": "a02848e2be489ac148cf19608b8e54796ab3d725661a2abb22ed823e02231a15"
   },
   {
    "site": "onma.top",
@@ -2426,30 +2426,30 @@
   {
    "site": "orchisasia.org",
    "file": "orchisasia.org.json.gz",
-   "entries": 1248,
-   "crawled": "2026-10-27T09:08:08.545289581Z",
-   "sha256": "5c10fe305146f5229c5fc5aae7b8e8d3b28502e93588dca127b5d517a5112d10"
+   "entries": 1252,
+   "crawled": "2026-10-28T09:50:12.309192314Z",
+   "sha256": "098c54bef5ede0cab9dcbb6c85ab5b89a62ac74fc63a99ae703e5dc862c70e39"
   },
   {
    "site": "oremanga.net",
    "file": "oremanga.net.json.gz",
-   "entries": 12068,
-   "crawled": "2026-10-27T09:08:21.758009825Z",
-   "sha256": "2f1c25d7b4a903dacf3695afc1bb12aaffe6d85414421c14c78d820335ea149e"
+   "entries": 12071,
+   "crawled": "2026-10-28T10:06:24.68757049Z",
+   "sha256": "bffd043cd1873d080e38fd7157a2bc94612a6f951897dd64e8952fa2e68dd5a0"
   },
   {
    "site": "orion-scans.com",
    "file": "orion-scans.com.json.gz",
-   "entries": 325,
-   "crawled": "2026-10-27T09:08:18.417141038Z",
-   "sha256": "37d6e68250c216cded9e3f5b5b8fdfa8ed5eadee22b6ac353ac13c0faf3a7c1a"
+   "entries": 327,
+   "crawled": "2026-10-28T10:06:17.298007346Z",
+   "sha256": "517162e5652e1a911e2f42ce3c539c3f67e67bc9c47ff4081893395ea6a6264d"
   },
   {
    "site": "ourfeel.jp",
    "file": "ourfeel.jp.json.gz",
    "entries": 26,
-   "crawled": "2026-10-27T09:08:17.400129527Z",
-   "sha256": "a39118e42a11bd30eff9a1ae44e064466b27fd55424ee91d17479d397ffcd0ad"
+   "crawled": "2026-10-28T10:06:18.207423125Z",
+   "sha256": "44785bd56d1f8e0a525c645fba73ca7c1620dccc88e2daa4ecd826a040cff627"
   },
   {
    "site": "panda.chaika.moe",
@@ -2469,29 +2469,29 @@
    "site": "paritehaber.com",
    "file": "paritehaber.com.json.gz",
    "entries": 1642,
-   "crawled": "2026-10-27T09:10:00.488716159Z",
-   "sha256": "5cb75a9cb742d58a66de49762c422af4000d23a4349f8d253f904bfb0aa2768b"
+   "crawled": "2026-10-28T10:08:09.908661886Z",
+   "sha256": "47d681c7636514f133edd50543fbbe9324db07c725c09de6b31f058ba3919963"
   },
   {
    "site": "petrotechsociety.org",
    "file": "petrotechsociety.org.json.gz",
-   "entries": 1366,
-   "crawled": "2026-10-27T09:08:22.573421897Z",
-   "sha256": "1c8ddf4821d1d98ed8ab6150f2cafb2b1b3a8fede2329eb6109e59f210e1c645"
+   "entries": 1370,
+   "crawled": "2026-10-28T10:06:25.96607436Z",
+   "sha256": "d74804ee205a089b6c2e364d9e441afb0b86069593d2a6dc14f6658d9e463010"
   },
   {
    "site": "pornhwa18.com",
    "file": "pornhwa18.com.json.gz",
-   "entries": 7013,
-   "crawled": "2026-10-27T09:09:09.660400395Z",
-   "sha256": "aaca93d19740b8aa1348fa078df255dd047e9ee9e46ce12c1fe608b2bdda3faf"
+   "entries": 7015,
+   "crawled": "2026-10-28T10:07:18.138169135Z",
+   "sha256": "02fb0f5cc12129fc4ec00b86e5b2a1d609e0677c9cce9ae56790e4d21df68344"
   },
   {
    "site": "pornhwaz.com",
    "file": "pornhwaz.com.json.gz",
    "entries": 452,
-   "crawled": "2026-10-27T09:08:24.666356037Z",
-   "sha256": "db07df07b4f7bd7b5509b4f8cb5c2955fce38c707f5e9f4eac77ae257312efc9"
+   "crawled": "2026-10-28T10:06:32.496871252Z",
+   "sha256": "91b1aa1721b47d4e6c12c93f7b6c17fe52022dbbd78abfd6c165dfde48b59959"
   },
   {
    "site": "projectsuki.com",
@@ -2503,16 +2503,16 @@
   {
    "site": "qimanga.com",
    "file": "qimanga.com.json.gz",
-   "entries": 1013,
-   "crawled": "2026-10-27T09:09:08.231516299Z",
-   "sha256": "02fd7a1dafeb96cb35aac623790a43528fbd3df458db52c9b8d8693820d9bbb0"
+   "entries": 1014,
+   "crawled": "2026-10-28T10:07:32.327443028Z",
+   "sha256": "1fe41087d9be6c2d919896a29ffc63349db83946956ca4aa365b22d965668bca"
   },
   {
    "site": "rackusreads.com",
    "file": "rackusreads.com.json.gz",
    "entries": 29,
-   "crawled": "2026-10-27T09:08:33.36231921Z",
-   "sha256": "55c4c4d7b5a267ca3c4a12a35e97cd6e98d4432e9e9c1292391b12314e52933c"
+   "crawled": "2026-10-28T10:06:34.493459878Z",
+   "sha256": "14a1d8d9310543a03f167ccdfe15d8d5e01c11fec65f16e8ef4b79d139b4b35e"
   },
   {
    "site": "ravenscans.org",
@@ -2531,23 +2531,23 @@
   {
    "site": "rawkuma.net",
    "file": "rawkuma.net.json.gz",
-   "entries": 9854,
-   "crawled": "2026-10-27T09:08:35.905465795Z",
-   "sha256": "e5a94ec860f003f0981783113bb62309cf973dcc80c39432f8a66be4187d79df"
+   "entries": 9865,
+   "crawled": "2026-10-28T10:06:37.966494578Z",
+   "sha256": "3fc66948c1581914ad4a2d63188b116f69b30fc7842eda4de38587b31486612d"
   },
   {
    "site": "re-yume.my.id",
    "file": "re-yume.my.id.json.gz",
    "entries": 27,
-   "crawled": "2026-10-27T09:08:37.16190309Z",
-   "sha256": "896c1a01badff56d7edd7e3797657424d517ddc96454cc6e889d8a4b72fe61c8"
+   "crawled": "2026-10-28T10:06:38.88331134Z",
+   "sha256": "02788a255cfc8aaab311b48ff5228e5efdc0cc583b2a114cfd1c2194ca8d96f2"
   },
   {
    "site": "read-horimiya.online",
    "file": "read-horimiya.online.json.gz",
    "entries": 5,
-   "crawled": "2026-10-27T09:08:38.753009636Z",
-   "sha256": "6ca30e9ec55e4aea57128a4e16f6e351188dc1e4dca601eec38182339dcb0184"
+   "crawled": "2026-10-28T10:06:40.188440246Z",
+   "sha256": "542827dd5b7acd2e93077975d0bbdc879170b09a7d6599ff279776ab63a846af"
   },
   {
    "site": "read.oppai.stream",
@@ -2560,8 +2560,8 @@
    "site": "readbagabondo.com",
    "file": "readbagabondo.com.json.gz",
    "entries": 38,
-   "crawled": "2026-10-27T09:08:58.496711921Z",
-   "sha256": "704c3518360c6b8289929d7c52a40c319d6a25e59156de7632806ed17081a160"
+   "crawled": "2026-10-28T10:06:40.628718266Z",
+   "sha256": "633bdfd3489d626769bf9126a56815bbaaace7e4b9059b29e0d82d3c988d7f26"
   },
   {
    "site": "readberserk.com",
@@ -2574,8 +2574,8 @@
    "site": "reader.deathtollscans.net",
    "file": "reader.deathtollscans.net.json.gz",
    "entries": 74,
-   "crawled": "2026-10-27T09:08:59.573213255Z",
-   "sha256": "12cc35af37cc4928612a6f7cf70387fb53b6f208e01ed1fdabb0f115b2e7c5c2"
+   "crawled": "2026-10-28T10:06:42.623402142Z",
+   "sha256": "55228fe2f0d40240008f535af5711cd17e810e477751cc45604ee59b4d7c71dc"
   },
   {
    "site": "reader.decadencescans.com",
@@ -2595,22 +2595,22 @@
    "site": "reapertrans.com",
    "file": "reapertrans.com.json.gz",
    "entries": 481,
-   "crawled": "2026-10-27T09:09:12.840969612Z",
-   "sha256": "ba812fcbf46a5fdc326476bdd20c1bd8c3fa75e6c39a62b3b142c94de046673f"
+   "crawled": "2026-10-28T10:06:47.069268375Z",
+   "sha256": "8fe4ab155e9e9f9502423c48f64bb0f6f328d093d27f80e79f66b0145af62a4b"
   },
   {
    "site": "rinkocomics.com",
    "file": "rinkocomics.com.json.gz",
-   "entries": 399,
-   "crawled": "2026-10-27T09:09:12.656764146Z",
-   "sha256": "31a3cbd8ffc1bc5bcb4ed52841df1c2d6e11ee5b2da08b7b57167ae27357a483"
+   "entries": 401,
+   "crawled": "2026-10-28T10:07:09.215408804Z",
+   "sha256": "fd20da09fc9e9bbba69cf1ffb2908198c20ed03d10597d11363e1fb228283932"
   },
   {
    "site": "ritharscans.com",
    "file": "ritharscans.com.json.gz",
    "entries": 264,
-   "crawled": "2026-10-27T09:09:12.484116403Z",
-   "sha256": "5d19bbd8fbf3d1e62e34a49698cac8ccf16e4dd00ddaef82cfc1cdaf42772f40"
+   "crawled": "2026-10-28T10:06:49.458891721Z",
+   "sha256": "1f8846d98c1f5000c9d28e6c7c284b1c0b963c5555dbba85e82eef874304ffc7"
   },
   {
    "site": "rizzfables.com",
@@ -2622,9 +2622,9 @@
   {
    "site": "rokaricomics.com",
    "file": "rokaricomics.com.json.gz",
-   "entries": 382,
-   "crawled": "2026-10-27T09:09:13.097552749Z",
-   "sha256": "e3c15776f0dcc5d19e196fa5e164f531b681f205141f182be8a4c3a656cc3078"
+   "entries": 383,
+   "crawled": "2026-10-28T10:06:49.965648509Z",
+   "sha256": "de286f55ac9bdbc5e5035018dfc8bcad234eec6038f9edd39f6152f3a04ff43f"
   },
   {
    "site": "rokuhentai.com",
@@ -2636,9 +2636,9 @@
   {
    "site": "roliascan.com",
    "file": "roliascan.com.json.gz",
-   "entries": 2042,
-   "crawled": "2026-10-27T09:09:25.133381733Z",
-   "sha256": "3ade871d0f743690bc6008283d526b6bdba0ad19b581ef0a08f4ae196d54f8b3"
+   "entries": 2062,
+   "crawled": "2026-10-28T10:07:34.80435001Z",
+   "sha256": "082c778021d46e7fce99c5962320a0cbb5730224424ba6197622bd4687836293"
   },
   {
    "site": "rosyscans.com",
@@ -2651,8 +2651,8 @@
    "site": "ruyamanga2.com",
    "file": "ruyamanga2.com.json.gz",
    "entries": 1336,
-   "crawled": "2026-10-27T09:11:56.450736576Z",
-   "sha256": "fde75e2f1734883e99d9862ab45b1da7273c4d1999f324f688a5f7dfef59319b"
+   "crawled": "2026-10-28T10:10:14.926039749Z",
+   "sha256": "8d3c773a03ddebb195dea080ac48216589be9cc58d30f84352874d6ec2463296"
   },
   {
    "site": "s2read.com",
@@ -2671,16 +2671,16 @@
   {
    "site": "sanascans.com",
    "file": "sanascans.com.json.gz",
-   "entries": 764,
-   "crawled": "2026-10-27T09:09:19.489640295Z",
-   "sha256": "dea4b70e0ea2ba2987d9700baf75029366dd8171eace2de63ae50f579ae5a5cd"
+   "entries": 765,
+   "crawled": "2026-10-28T10:07:25.671647044Z",
+   "sha256": "74a8ad7a124c127ae5dd98508449b0e3089e9055a964168d9f319bca2847e350"
   },
   {
    "site": "sasangeyou.net",
    "file": "sasangeyou.net.json.gz",
    "entries": 2840,
-   "crawled": "2026-10-27T09:09:21.751301499Z",
-   "sha256": "a620a1cb999f495ab620d56bd9ddf3275fdda61a468f34a0d35134419adcd64f"
+   "crawled": "2026-10-28T10:07:21.714916753Z",
+   "sha256": "c3b66b52b847bd4274a1809ea4a3a2f8b8aea12016db25f67d031c5d91ce5ff8"
   },
   {
    "site": "saymanhwa.com",
@@ -2699,58 +2699,58 @@
   {
    "site": "scythescans.com",
    "file": "scythescans.com.json.gz",
-   "entries": 68,
-   "crawled": "2026-10-27T09:09:40.647118101Z",
-   "sha256": "76cb534162029558e3b0ce09cb7ac0da469cab2bc016b6ff901487c9f83b84cd"
+   "entries": 70,
+   "crawled": "2026-10-28T10:07:43.081394806Z",
+   "sha256": "67e73f5a529f6fff2a32c938fd8411c55e069b2c73884d352da127824488737c"
   },
   {
    "site": "sektedoujin.cc",
    "file": "sektedoujin.cc.json.gz",
-   "entries": 3837,
-   "crawled": "2026-10-27T09:09:25.548961335Z",
-   "sha256": "e02b973aa5ae2bdc7604c4615bb433af537b3e84a78238e7d4812bd3afbea2d5"
+   "entries": 3854,
+   "crawled": "2026-10-28T10:07:26.481071671Z",
+   "sha256": "6ebae2ee54b3b88c719818daf62c5de4e3353bec8a5fac5f0d89ee5eb70cf51e"
   },
   {
    "site": "seraphic-deviltry.com",
    "file": "seraphic-deviltry.com.json.gz",
    "entries": 36,
-   "crawled": "2026-10-27T09:09:29.707278712Z",
-   "sha256": "019f6b6119e7ae136d492bafabcc7c2303559a54732f0d12ed4383701d23cf3f"
+   "crawled": "2026-10-28T10:07:32.459512708Z",
+   "sha256": "ce2443a6f6fe681b749794c77f4fb945b68b77647934f47bd23b828c348b8792"
   },
   {
    "site": "sereinscan.com",
    "file": "sereinscan.com.json.gz",
    "entries": 70,
-   "crawled": "2026-10-27T09:09:30.884501955Z",
-   "sha256": "67768af4d3a350a3e2247d44e928ce379d21287f1f898ab785d9a6c5e8f24a24"
+   "crawled": "2026-10-28T10:07:33.983635139Z",
+   "sha256": "5f83dfdb8eedfaf9ef175e560f06644ef5583b27db98527db675a4af79be6079"
   },
   {
    "site": "shijiescans.com",
    "file": "shijiescans.com.json.gz",
    "entries": 42,
-   "crawled": "2026-10-27T09:09:31.738209254Z",
-   "sha256": "f169313893a88e21049c6e1f04af053eeedf39fecac2481bd7013912a09096d7"
+   "crawled": "2026-10-28T10:07:33.636302368Z",
+   "sha256": "a024883926a492ee47c79ed80f74503573ab1fbe4b875628d521a7cc7541d475"
   },
   {
    "site": "shinobiscans.com",
    "file": "shinobiscans.com.json.gz",
    "entries": 45,
-   "crawled": "2026-10-27T09:09:38.671295563Z",
-   "sha256": "32f44f47692b3ce31a3781369a3593d005362b62fd73d251660b16e0359b05e7"
+   "crawled": "2026-10-28T10:07:41.444106725Z",
+   "sha256": "043861b57c75fbd96e7514797362141e7c1157823b18bb23b3fd7a78d29a6940"
   },
   {
    "site": "shonenjumpplus.com",
    "file": "shonenjumpplus.com.json.gz",
-   "entries": 93,
-   "crawled": "2026-10-27T09:09:40.016372404Z",
-   "sha256": "ff84baa04d7f39680ff1b853b9d5a42da10d30e2974152e853495112634b12c3"
+   "entries": 94,
+   "crawled": "2026-10-28T10:07:34.709850188Z",
+   "sha256": "fdfe9bf33b700cfcf6259c59accfc99ef68d892249c485a537b2fd90f7884a9b"
   },
   {
    "site": "siikomik.id",
    "file": "siikomik.id.json.gz",
    "entries": 143,
-   "crawled": "2026-10-27T09:09:53.026444067Z",
-   "sha256": "35c1efc3f09f8fa1c6b273e19a3001ac38ea3eaf51865081532eb814db54ceef"
+   "crawled": "2026-10-28T09:50:25.19872452Z",
+   "sha256": "503e6e3f31153da04a27697faedbd3c9f42f7ec22005385edf269136b2912841"
   },
   {
    "site": "silentquill.net",
@@ -2776,9 +2776,9 @@
   {
    "site": "sirenscans.org",
    "file": "sirenscans.org.json.gz",
-   "entries": 1536,
-   "crawled": "2026-10-27T09:09:43.442707588Z",
-   "sha256": "02fc8ed800e873dbded8f0c7c652827be78a3fb8eb4f162abbd34f9ccb060b10"
+   "entries": 1537,
+   "crawled": "2026-10-28T10:07:38.140596464Z",
+   "sha256": "06207ee6923b9e9d79055ecc25a31f96ba5430bb561f4410ff6cd5dd7515179b"
   },
   {
    "site": "slow-manga.net",
@@ -2790,9 +2790,9 @@
   {
    "site": "speed-manga.net",
    "file": "speed-manga.net.json.gz",
-   "entries": 2021,
-   "crawled": "2026-10-27T09:09:44.562744672Z",
-   "sha256": "e8a9d37a107236a56407e9b76c08ffdac729260d84a14eba947318f9a39302bd"
+   "entries": 2027,
+   "crawled": "2026-10-28T10:07:35.788468121Z",
+   "sha256": "ba7893d983aecde4665640395eec3896291c714bb9b8cb37215f7b7e5ed4f422"
   },
   {
    "site": "stonescape.xyz",
@@ -2805,22 +2805,22 @@
    "site": "sunday-webry.com",
    "file": "sunday-webry.com.json.gz",
    "entries": 291,
-   "crawled": "2026-10-27T09:09:47.939092932Z",
-   "sha256": "be2d5b5917718dfad5972a2e19c3fff9966ed38772bdaecaf8d6f46d578e7571"
+   "crawled": "2026-10-28T10:07:39.06477104Z",
+   "sha256": "8846cd2c386eb47481d5514d47a1c2bea8fc1996f206fd9a5d5795fd4b0badf6"
   },
   {
    "site": "sushiscan.net",
    "file": "sushiscan.net.json.gz",
    "entries": 4347,
-   "crawled": "2026-10-27T09:09:49.754364545Z",
-   "sha256": "8e501964f9a89ea77996a23fa3978c7c3830d317ad1d13187190cc92fc4ddb1b"
+   "crawled": "2026-10-28T10:07:40.838993807Z",
+   "sha256": "4946b8f757c9943a2e9c910decc9817879c1a6b309742b74c987a1c6fab14c67"
   },
   {
    "site": "tankouhentai.com",
    "file": "tankouhentai.com.json.gz",
-   "entries": 930,
-   "crawled": "2026-10-27T09:10:48.517911906Z",
-   "sha256": "475debfdf1eb58eb846126f53012e7ada52910c1d12acac91c7728a791c6f9ec"
+   "entries": 931,
+   "crawled": "2026-10-28T10:08:53.30934821Z",
+   "sha256": "543f70bc44584e0aaa2bb4b8210c323e210848f71033a78d8360d1d725206f9d"
   },
   {
    "site": "tanuki-manga.net",
@@ -2832,16 +2832,16 @@
   {
    "site": "tapas.io",
    "file": "tapas.io.json.gz",
-   "entries": 64651,
-   "crawled": "2026-10-27T09:09:56.477713645Z",
-   "sha256": "0c37d0fcdec8173ded1ad9a7c49a0cc553f4070e6f570cd60158dd2c4f95b355"
+   "entries": 64654,
+   "crawled": "2026-10-28T10:07:43.392784941Z",
+   "sha256": "48e05e3c2b12854c0774ceddbf368bd04f3dd0537914ad38db127559e72998f5"
   },
   {
    "site": "tarotscans.com",
    "file": "tarotscans.com.json.gz",
    "entries": 1699,
-   "crawled": "2026-10-27T09:12:39.612951924Z",
-   "sha256": "103bc57fd977df35ccc29fd1cf70ec2cb1c56835cb0961c73ccf5d9c3570f2d4"
+   "crawled": "2026-10-28T10:10:52.979749089Z",
+   "sha256": "0cd14074b5a5efba313e6df426a9b246a3a753801ebde2acf3bba8f82d574ba4"
   },
   {
    "site": "tcbonepiecechapters.com",
@@ -2860,23 +2860,23 @@
   {
    "site": "templetoons.com",
    "file": "templetoons.com.json.gz",
-   "entries": 304,
-   "crawled": "2026-10-27T09:10:01.374816048Z",
-   "sha256": "c635d327e7d7c67e234222e60b2b7af538a67f075d7278ac3953d97016402f30"
+   "entries": 305,
+   "crawled": "2026-10-28T10:07:44.417922981Z",
+   "sha256": "f1ef441370c5824c19694ffc6bdd98d330cb3840ea5f1a0007f35312b738e700"
   },
   {
    "site": "the-apothecary-diaries.com",
    "file": "the-apothecary-diaries.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:10:01.375857605Z",
-   "sha256": "5365d3bb3fc3aedc83ab55eaebd459acc622e5220d62d03a6a66646c7775b101"
+   "crawled": "2026-10-28T10:07:43.58321457Z",
+   "sha256": "6efa1e46394bc3e44971174633571e2045d1ad1323bb7a1d0345997017c76edd"
   },
   {
    "site": "thegirlfromrandomchatting.com",
    "file": "thegirlfromrandomchatting.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:10:01.376106851Z",
-   "sha256": "14ca01c337282ec4369488cd3b742b22d05f1fb81dc73714c4a6cfda10d601a1"
+   "crawled": "2026-10-28T10:08:24.176530719Z",
+   "sha256": "946022f91217f269454bad4670f905673e058b6952f39929a67338f8f4d35b72"
   },
   {
    "site": "tilkiscans.com",
@@ -2903,15 +2903,15 @@
    "site": "tonarinoyj.jp",
    "file": "tonarinoyj.jp.json.gz",
    "entries": 203,
-   "crawled": "2026-10-27T09:10:03.912825184Z",
-   "sha256": "b4a0c62a74d371164c93690d57e13bc30d598108b5c929d96dacf38128209708"
+   "crawled": "2026-10-28T10:08:26.257661245Z",
+   "sha256": "46384134701644a8d7ac2ce97687a0d54cc28b6501d45a48014ab36e72657dfb"
   },
   {
    "site": "toomtam-manga.com",
    "file": "toomtam-manga.com.json.gz",
    "entries": 1160,
-   "crawled": "2026-10-27T09:10:52.487640597Z",
-   "sha256": "c9ef45f6f3fb6ff7d678ecd12e8ba6d413e538109be0295c33c1b599aee485e9"
+   "crawled": "2026-10-28T10:08:24.172746511Z",
+   "sha256": "e3fa0d888eb2f70f9820ac783c5ba42374a135028e2ad03aba687c3c57ace491"
   },
   {
    "site": "toongod.cc",
@@ -2924,15 +2924,15 @@
    "site": "toonhunter.com",
    "file": "toonhunter.com.json.gz",
    "entries": 4165,
-   "crawled": "2026-10-27T09:10:13.454282879Z",
-   "sha256": "31f5954e8ff879a68a2292d9826ccbf4af82d271be1ad3ee1616214091e0d048"
+   "crawled": "2026-10-28T10:07:47.831408357Z",
+   "sha256": "686c4d14ff63a093839e64632ad04d49ff829125868edadceab32760c9fbecb7"
   },
   {
    "site": "toonily.com",
    "file": "toonily.com.json.gz",
    "entries": 1561,
-   "crawled": "2026-10-27T09:12:25.811753474Z",
-   "sha256": "d6dc62962600ed690d1f0e27253c59db3b4ac2e2f383d04ce9a08dc073b51cf0"
+   "crawled": "2026-10-28T10:10:10.911496227Z",
+   "sha256": "fe3e26784d884e298dd860f5a751e16edac62ed9dcb12596b5f65f2e9bb6c7c0"
   },
   {
    "site": "toonizy.com",
@@ -2944,93 +2944,93 @@
   {
    "site": "toontop.io",
    "file": "toontop.io.json.gz",
-   "entries": 9346,
-   "crawled": "2026-10-27T09:11:40.830739595Z",
-   "sha256": "6dcc8436b2a44a415dd0c85cdb793af9bef5e7ef8f0e761d79d69a1e310a1c48"
+   "entries": 9354,
+   "crawled": "2026-10-28T10:09:10.83501011Z",
+   "sha256": "d63cc0e788c3370f69b056f5f0687dfcf6c040d149316bce9802c50a6de849ca"
   },
   {
    "site": "toonx.to",
    "file": "toonx.to.json.gz",
    "entries": 10766,
-   "crawled": "2026-10-27T09:10:58.620130463Z",
-   "sha256": "0a3a884e56b3f5fcf67a2e40d60286bc838b27ea0d2a22a6de6cc5cc4eef3232"
+   "crawled": "2026-10-28T10:06:13.699960109Z",
+   "sha256": "3cff47c9c74097a6d93bdd3601023dc3b3b39e8a92b99692c207d9f978826297"
   },
   {
    "site": "toonz.to",
    "file": "toonz.to.json.gz",
-   "entries": 71454,
-   "crawled": "2026-10-27T09:11:23.167217166Z",
-   "sha256": "bc41778d83f9668ea4a976cfe8bea7ef3539a4c12d7196b70d2c95075bb349e1"
+   "entries": 72145,
+   "crawled": "2026-10-28T10:09:06.724863345Z",
+   "sha256": "1eeb77311e83cd0703167ba267bb5f0d1a24583dfc955384b3332f00bec8fff0"
   },
   {
    "site": "topcomicporno.com",
    "file": "topcomicporno.com.json.gz",
    "entries": 1829,
-   "crawled": "2026-10-27T09:12:54.69228447Z",
-   "sha256": "e69e3f819b349ee455974a3213298776844634baed4a1f321aa3231e0c83f94a"
+   "crawled": "2026-10-28T10:10:48.442883411Z",
+   "sha256": "096bf2a63b7cf67bde1edc9cb255d5bae45b908f9a682b926a89f299804081ba"
   },
   {
    "site": "topmanhua.fan",
    "file": "topmanhua.fan.json.gz",
-   "entries": 95317,
-   "crawled": "2026-10-27T09:11:27.00651135Z",
-   "sha256": "0d9afccd8597a740901ac7e2f80ca339120cb1641f64ef157e8130d5b4688fd0"
+   "entries": 95343,
+   "crawled": "2026-10-28T10:09:02.258551423Z",
+   "sha256": "09d31d0bd7785f1ce1808bdcade3a9d932fe1513d4802a9137ba0685ca62d192"
   },
   {
    "site": "tortugaceviri.com",
    "file": "tortugaceviri.com.json.gz",
    "entries": 121,
-   "crawled": "2026-10-27T09:25:06.433829354Z",
-   "sha256": "e92878f2cdf626f2bd82bfb0b7b02bfba886f3376257b3ad63e61090a894d8e8"
+   "crawled": "2026-10-28T10:09:10.209932977Z",
+   "sha256": "e459a38054cade24a991d9b91534bc3c1bf8abc89f2cbb248aefb8de135caef4"
   },
   {
    "site": "tritinia.org",
    "file": "tritinia.org.json.gz",
    "entries": 57,
-   "crawled": "2026-10-27T09:11:31.852617608Z",
-   "sha256": "d5fc80778e19cb777f13d2955184d7999e05410d46c5476c0c7e8c60abc1dd48"
+   "crawled": "2026-10-28T10:09:12.293752417Z",
+   "sha256": "b66b8ba18d701147fe3fb95e23a79f8747c62f6a9f45003abd95fb8d82993c75"
   },
   {
    "site": "trmanga.com",
    "file": "trmanga.com.json.gz",
-   "entries": 2421,
-   "crawled": "2026-10-27T09:11:32.544015804Z",
-   "sha256": "1682ba39992224df50e40bee6b916fdf3558b99f5b480d33a34ea9eba3e2039c"
+   "entries": 2423,
+   "crawled": "2026-10-28T10:09:11.413777322Z",
+   "sha256": "2cb410cbbc70d5ac27435c8e00cb214304fe61d26c0ea16237dbff2fccca7493"
   },
   {
    "site": "trmangaoku.com",
    "file": "trmangaoku.com.json.gz",
    "entries": 101,
-   "crawled": "2026-10-27T09:11:40.179707513Z",
-   "sha256": "9925a988486ddf01959dfba127f9bd9a24897ffa90a2452777c8fe87a2bbfe18"
+   "crawled": "2026-10-28T10:09:20.510883812Z",
+   "sha256": "b66f55946d6c298133fc8511c2bd41b22fbe3c5930697e215e3a1868f625e699"
   },
   {
    "site": "truyentranhdammyy.site",
    "file": "truyentranhdammyy.site.json.gz",
    "entries": 809,
-   "crawled": "2026-10-27T09:13:11.665442866Z",
-   "sha256": "f7f761705a12ef32e198b419d56bf4e304ad8a07505479d881e8d346e8b2fa07"
+   "crawled": "2026-10-28T10:10:41.055585228Z",
+   "sha256": "b563d9880b2b2de3b939ca254963ee51dae6d548422713ee31c6b6c8319e69fb"
   },
   {
    "site": "tsundoku.com.br",
    "file": "tsundoku.com.br.json.gz",
    "entries": 75,
-   "crawled": "2026-10-27T09:11:42.241503103Z",
-   "sha256": "4652e3a71f979ff6da56d6a9045f7e75a43924deb9ca21acc8df7e12dfb9ed0b"
+   "crawled": "2026-10-28T10:09:14.153088502Z",
+   "sha256": "bb29ccbfde82d0ca187582fa7ab6405acb419a6750d5c98b750e64f59dcfc564"
   },
   {
    "site": "turkcemanga.com",
    "file": "turkcemanga.com.json.gz",
    "entries": 46,
-   "crawled": "2026-10-27T09:11:47.031615841Z",
-   "sha256": "af78ad52e9f7f7d813be5c826703d9fedecb7306030d8e4375e14b0b902c8955"
+   "crawled": "2026-10-28T10:09:20.150410188Z",
+   "sha256": "6af52d3edcc76458074205ef82099abacee2d0e338d01cc53033e1684f9dd04d"
   },
   {
    "site": "tvymanga3.com",
    "file": "tvymanga3.com.json.gz",
    "entries": 67,
-   "crawled": "2026-10-27T09:11:48.281186771Z",
-   "sha256": "30e37a92e4bf6f13bcc1a9b8098b2bb9b918165e553122fbad4f1a5dd6b0f393"
+   "crawled": "2026-10-28T10:09:21.848877357Z",
+   "sha256": "e1876ec35aa2938f5f6f8d23ebff66a3ee92fa65192863efce42e8546c790f1c"
   },
   {
    "site": "twicomi.com",
@@ -3049,23 +3049,23 @@
   {
    "site": "uchuujinmangas.com",
    "file": "uchuujinmangas.com.json.gz",
-   "entries": 186,
-   "crawled": "2026-10-27T09:11:56.891583825Z",
-   "sha256": "a0d6dd057e6e33c64e367ac8d6fdced5e9205a62e5112762c4d72a0c74763120"
+   "entries": 185,
+   "crawled": "2026-10-28T10:09:22.521448673Z",
+   "sha256": "f5c6bcc46f072989629a02fddc2b5661599dda5028d4f40ed4a413e9a2bd4758"
   },
   {
    "site": "undertranslations.com",
    "file": "undertranslations.com.json.gz",
    "entries": 43,
-   "crawled": "2026-10-27T09:11:58.048847897Z",
-   "sha256": "5540ca340507accaf91a661ab0c2758f6ad31c2498e222df5eaf0efefc67d5a9"
+   "crawled": "2026-10-28T10:09:24.087254481Z",
+   "sha256": "4a2cb785f2d2a52a15e4cd3de5deff0e536f3a1c20e84590364b539e7660fd86"
   },
   {
    "site": "utoon.us",
    "file": "utoon.us.json.gz",
    "entries": 248,
-   "crawled": "2026-10-27T09:12:12.977904558Z",
-   "sha256": "45e0c36b4425843be1d247b4a8d66c5be0d4fbaa04f7285977ab66c71c447280"
+   "crawled": "2026-10-28T10:09:40.533290339Z",
+   "sha256": "e1a076128328f09cd74a32ee19adc13f0604476afc090caa6492a482a24b42d3"
   },
   {
    "site": "uzaymanga.com",
@@ -3077,9 +3077,9 @@
   {
    "site": "valirscans.org",
    "file": "valirscans.org.json.gz",
-   "entries": 699,
-   "crawled": "2026-10-27T09:12:23.47454995Z",
-   "sha256": "31dbd702f82fadb9eb4443d4469a22d33113eb13c141b6a474da34e7ca1531fa"
+   "entries": 700,
+   "crawled": "2026-10-28T10:09:52.452814396Z",
+   "sha256": "10f776632ac3ddc66b42ccb448ae5914e3e61a9008736972ec33888750c23760"
   },
   {
    "site": "vermanhwa.com",
@@ -3105,16 +3105,16 @@
   {
    "site": "vortexscans.org",
    "file": "vortexscans.org.json.gz",
-   "entries": 482,
-   "crawled": "2026-10-27T09:12:40.993670726Z",
-   "sha256": "2fae7a3a27c2215e5f4a3d237142f949c9cc0fab630d5aaa0674ef28321d6a81"
+   "entries": 483,
+   "crawled": "2026-10-28T10:10:09.254872739Z",
+   "sha256": "f46a1d7005d4fb86e1d61ac8444b2e5d13afdb88c43bf0ea3d4e656418a7e8d7"
   },
   {
    "site": "w2.ruridragon.com",
    "file": "w2.ruridragon.com.json.gz",
    "entries": 1,
-   "crawled": "2026-10-27T09:12:32.313259657Z",
-   "sha256": "c720ac8ec4bb8c1b80250acd61d3e9bd145516e9ce7a0c7a691f75c954df71e7"
+   "crawled": "2026-10-28T10:10:09.257193992Z",
+   "sha256": "ffb0fde1f9f56e59f21c227722a76c297caf438661da7880e8523a9ae5a3b315"
   },
   {
    "site": "w82.thetowerofgod.com",
@@ -3127,8 +3127,8 @@
    "site": "w9.kaijimanga.com",
    "file": "w9.kaijimanga.com.json.gz",
    "entries": 4,
-   "crawled": "2026-10-27T09:12:35.717164893Z",
-   "sha256": "16dc485f96423d2e0b63752114661597e06a8a04f52cc2504bd66eaef8d081fa"
+   "crawled": "2026-10-28T10:10:11.471341463Z",
+   "sha256": "211d0a13951a677df26b13ba0abc15fb962f5cc406716b2798bcbe002ce31695"
   },
   {
    "site": "webnex.cc",
@@ -3141,8 +3141,8 @@
    "site": "webtoonia.fun",
    "file": "webtoonia.fun.json.gz",
    "entries": 31,
-   "crawled": "2026-10-27T09:12:43.075197768Z",
-   "sha256": "163bc9dd2a33661b1d45115bcc98c4469f0b0d77a65fdf3a8c2da02d4d4123f5"
+   "crawled": "2026-10-28T10:08:30.93220617Z",
+   "sha256": "a2c3b277775c2469a3be3b77afc4965a24e05b217d13f87dd71f878fb8ef4168"
   },
   {
    "site": "webtoons.com",
@@ -3155,15 +3155,15 @@
    "site": "weebcentral.com",
    "file": "weebcentral.com.json.gz",
    "entries": 10860,
-   "crawled": "2026-10-27T09:12:43.976218361Z",
-   "sha256": "12ba8da8077a8bbe15f5aa55b183d780655197ee2b8a1c1487c81a95802ec737"
+   "crawled": "2026-10-28T10:10:16.222849304Z",
+   "sha256": "a74de7f9ae464ec969ea5fe89d2fa763df8f365c6325ba82563e6482734ee5fc"
   },
   {
    "site": "witchtoons.net",
    "file": "witchtoons.net.json.gz",
    "entries": 117,
-   "crawled": "2026-10-27T09:12:50.710647464Z",
-   "sha256": "b38c09392a54dd19824e04508146d8d634d21f590970be5d388dda2ab7d6909f"
+   "crawled": "2026-10-28T10:10:21.321475724Z",
+   "sha256": "22f2df72ebce7200def20f5f6820175672a521bf11810bc130027c91ec33197d"
   },
   {
    "site": "writerscans.com",
@@ -3183,22 +3183,22 @@
    "site": "ww12.readsnk.com",
    "file": "ww12.readsnk.com.json.gz",
    "entries": 18,
-   "crawled": "2026-10-27T09:12:44.628054849Z",
-   "sha256": "e3272e11079c04369ada8754f6ac98c4182680fe6d003f04a78455042bfa0472"
+   "crawled": "2026-10-28T10:10:18.326101556Z",
+   "sha256": "5740681a6392461ffc1150abd581a873a4c46347650afeb1cd44c3503e742383"
   },
   {
    "site": "ww12.tokyoghoulre.com",
    "file": "ww12.tokyoghoulre.com.json.gz",
    "entries": 10,
-   "crawled": "2026-10-27T09:12:46.31653641Z",
-   "sha256": "9344087153090225dd97a6ef9e3ef49ea6c8c6e4df119aec0246cf848a2948f2"
+   "crawled": "2026-10-28T10:10:21.985498017Z",
+   "sha256": "fe46b170de618901a287e196dc8f99484ad851a580c1b8ef20755e4af31cc79b"
   },
   {
    "site": "ww13.readonepiece.com",
    "file": "ww13.readonepiece.com.json.gz",
    "entries": 21,
-   "crawled": "2026-10-27T09:12:46.936961425Z",
-   "sha256": "4c73faea7b17536bd0ee43516a884771e9de5a250142c12dcdaf7fd3a69592d2"
+   "crawled": "2026-10-28T10:10:22.446734225Z",
+   "sha256": "ec0a30d90778c8e8fbad2fda15e36f7144c9ffad260d255733f7a8620698f758"
   },
   {
    "site": "ww3.mangafreak.me",
@@ -3211,50 +3211,50 @@
    "site": "ww4.readsololeveling.org",
    "file": "ww4.readsololeveling.org.json.gz",
    "entries": 7,
-   "crawled": "2026-10-27T09:12:49.418766831Z",
-   "sha256": "718e00043e7b090ed76e12c3d3b5fe1486508c3dc169a1dda90d27b37ae02c5b"
+   "crawled": "2026-10-28T10:10:16.408535046Z",
+   "sha256": "54d00ed9fe0358367317b1083d7981e194b0c22b2b304018dc260b1701a416dd"
   },
   {
    "site": "ww6.readchainsawman.com",
    "file": "ww6.readchainsawman.com.json.gz",
    "entries": 15,
-   "crawled": "2026-10-27T09:12:49.93801123Z",
-   "sha256": "ead72979c1f67c7a9e7ee9395cefc5e03db31de4a69336ccd2984d74aa1d4c65"
+   "crawled": "2026-10-28T10:10:15.611516698Z",
+   "sha256": "0ca5bd90ef1f0271d9e3d20acbce69f4dc4d66c3167f7cf8cea4ba027f03189e"
   },
   {
    "site": "ww6.readjujutsukaisen.com",
    "file": "ww6.readjujutsukaisen.com.json.gz",
    "entries": 13,
-   "crawled": "2026-10-27T09:12:50.453084267Z",
-   "sha256": "c3fd6dedd24c91a7e6f7087a9ed7ff87a7ec3436d2691080d8834ae01e27ba57"
+   "crawled": "2026-10-28T10:10:16.978267569Z",
+   "sha256": "42bbb7ab56c0bdd5de2ea37d72d4127eeda40976cc9299841c83af9d966f1fa0"
   },
   {
    "site": "ww6.readkingdom.com",
    "file": "ww6.readkingdom.com.json.gz",
    "entries": 8,
-   "crawled": "2026-10-27T09:12:50.979377671Z",
-   "sha256": "7891906e66133f77ac6bab5df4ab3257f0da56b03cc1ce5b1b93ef0c5ba1bf52"
+   "crawled": "2026-10-28T10:10:17.665947085Z",
+   "sha256": "5da91dd5f8b969b244af309fb70c7217162f66da8fd12713a697776b9c6fc638"
   },
   {
    "site": "ww7.readopm.com",
    "file": "ww7.readopm.com.json.gz",
    "entries": 13,
-   "crawled": "2026-10-27T09:12:53.698809674Z",
-   "sha256": "2c0d3dacaf0287dceaed66d08b6d3e7f9fcf16e6b3eb19db663bb4b08efcf59b"
+   "crawled": "2026-10-28T10:10:22.131580542Z",
+   "sha256": "6050662f2f3d641f094ccd27f0ef0fbab31521c07b12f48e8fce6819d83a4f18"
   },
   {
    "site": "ww8.read7deadlysins.com",
    "file": "ww8.read7deadlysins.com.json.gz",
    "entries": 15,
-   "crawled": "2026-10-27T09:12:51.494020181Z",
-   "sha256": "3da38a112c011fc2607c7db96310dae1323afff27d0d5f9a0f98ca0091750746"
+   "crawled": "2026-10-28T10:10:22.684386813Z",
+   "sha256": "999110d9193a8ed43d944faefe1b08a587f796394dc6c10462f4044b6470b7b4"
   },
   {
    "site": "ww9.readfairytail.com",
    "file": "ww9.readfairytail.com.json.gz",
    "entries": 25,
-   "crawled": "2026-10-27T09:12:52.015818432Z",
-   "sha256": "a405ef5cd42db4f2488835cad07cb1f9ff9d7a87133e0fcd10aac3ac00c74a4e"
+   "crawled": "2026-10-28T10:10:12.160232021Z",
+   "sha256": "aa645e167f60b0b2c3e29b4a9a50f7d2bf757922a25de3364188825b44cea6bc"
   },
   {
    "site": "xcomic.me",
@@ -3267,8 +3267,8 @@
    "site": "xlecx.one",
    "file": "xlecx.one.json.gz",
    "entries": 44174,
-   "crawled": "2026-10-26T09:22:40.592332596Z",
-   "sha256": "573232246b6fb7f0e701428300f9ff34d2da581e10461f9e22ce3add9499c3c4"
+   "crawled": "2026-10-28T10:10:41.833618071Z",
+   "sha256": "5535ddee0267cfd4bf850439d6bda9702271202301456995b8eb3d8891194b0c"
   },
   {
    "site": "xn--l3c0azab5a2gta.com",
@@ -3295,64 +3295,64 @@
    "site": "yakshacomics.com",
    "file": "yakshacomics.com.json.gz",
    "entries": 62,
-   "crawled": "2026-10-27T09:13:35.6899327Z",
-   "sha256": "bd103af4ab52f5f165c4affbb96f8b10fcdd4518f2b24203a9138d28d56dfa31"
+   "crawled": "2026-10-28T10:10:33.144146959Z",
+   "sha256": "3640741c54e38725389fc372e75211641efcd7c49d088bd6a54a6aa715dbf673"
   },
   {
    "site": "yaoiflix.fit",
    "file": "yaoiflix.fit.json.gz",
    "entries": 320,
-   "crawled": "2026-10-27T09:13:13.460711382Z",
-   "sha256": "3b8e5a4dab6c29fabf7c2b6a5852ccd3f1a7a2d59347b0df1b3fb51f7025bfd9"
+   "crawled": "2026-10-28T10:10:55.260208576Z",
+   "sha256": "8e6bbef2e7f51b05ed1b7476a40d850714325036a2492f13dcd4cf1491b0dc08"
   },
   {
    "site": "yaoihub.org",
    "file": "yaoihub.org.json.gz",
    "entries": 229,
-   "crawled": "2026-10-27T09:13:31.210833795Z",
-   "sha256": "24dc53ac5050470e48027659cbc17827193b76889349a82188c5ac10b9f56ab8"
+   "crawled": "2026-10-28T10:11:04.373787672Z",
+   "sha256": "cf1d9abd352286eeed1fea4ff7002da0ed4a9300c7dc54c7a5265adbdc88363d"
   },
   {
    "site": "yaoimangaonline.com",
    "file": "yaoimangaonline.com.json.gz",
    "entries": 26519,
-   "crawled": "2026-10-27T09:18:27.678058764Z",
-   "sha256": "f4c38ec8e65d69f948018496d0d97238b817d109f712cb85d558f170a9bb790b"
+   "crawled": "2026-10-28T10:16:00.058896251Z",
+   "sha256": "a625c6fc5a1efe6b20983df44c449fff316b578749d8b8415265013fcb216c2f"
   },
   {
    "site": "yaoiscan.me",
    "file": "yaoiscan.me.json.gz",
-   "entries": 1382,
-   "crawled": "2026-10-27T09:13:12.56241725Z",
-   "sha256": "d75075d54c91ef7dbe4664f1586c7154d7e309b1f50d214e08e773ead14e9aeb"
+   "entries": 1406,
+   "crawled": "2026-10-28T10:10:45.384243001Z",
+   "sha256": "b1a6cbb6a072cfbcf16e8e385be05dd18d4a78e12b6570015f11659ffd6d285c"
   },
   {
    "site": "ysk-comics.com",
    "file": "ysk-comics.com.json.gz",
    "entries": 1125,
-   "crawled": "2026-10-27T09:13:14.018789845Z",
-   "sha256": "7d6a0d7df158587b64b2bd96b8256c9bb052904a098763abcb52d61ee9261a55"
+   "crawled": "2026-10-28T10:10:47.193228742Z",
+   "sha256": "f893515d3d77da797bc3a809be7ff70f67f76d46ad5f6a14a4c3d367874621a3"
   },
   {
    "site": "yurionair.top",
    "file": "yurionair.top.json.gz",
    "entries": 487,
-   "crawled": "2026-10-27T09:13:46.267262274Z",
-   "sha256": "aaf1ea2985eaa8d0c8fd99cb4adce8890e06854435a5ac59c865aec523e959c0"
+   "crawled": "2026-10-28T10:11:27.195345846Z",
+   "sha256": "1fadca801df218ace92c20fc2146ddeb6603c449726f5d220c761ddd88494259"
   },
   {
    "site": "zazamanga.com",
    "file": "zazamanga.com.json.gz",
    "entries": 78612,
-   "crawled": "2026-10-27T09:13:33.735624886Z",
-   "sha256": "546ace5e0a7f747845ae475c49a10d1613705ea675766d60e2bd9e1064d164db"
+   "crawled": "2026-10-28T10:10:56.072102375Z",
+   "sha256": "99098682fd14026335827b5e65786705d33cef84e986c9db1ea9dcd327a3d930"
   },
   {
    "site": "zinmanga.net",
    "file": "zinmanga.net.json.gz",
-   "entries": 95320,
-   "crawled": "2026-10-27T09:05:08.31008662Z",
-   "sha256": "720cb2ddc903b106c1161d655201603d5d5edf048d50c39713623306f25389cd"
+   "entries": 95342,
+   "crawled": "2026-10-28T09:45:06.082933801Z",
+   "sha256": "c7de82b2bc52d36341abf31fa85771a8bc4f9b65da673cbb8e39f20af2eb5e93"
   }
  ],
  "extra": [
@@ -3361,7 +3361,7 @@
    "file": "sources.json",
    "entries": 0,
    "crawled": "0001-01-01T00:00:00Z",
-   "sha256": "19269f9783acb558c93d01fc75281ad0dcea3e752ed5524bb801ef138c94ba94"
+   "sha256": "eda1edba24d54c53e886103e5fcc8d49e280bde787b17d7cd197743330158ff3"
   }
  ]
 }
