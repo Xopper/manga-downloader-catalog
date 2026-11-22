@@ -123,7 +123,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8524619729907384865",
-  "entries": 70207,
+  "entries": 77529,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -145,7 +145,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8547397037512613554",
-  "entries": 11184,
+  "entries": 11206,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -341,7 +341,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "7786528235956058474",
-  "entries": 31388,
+  "entries": 35998,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -398,7 +398,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "427734044452073936",
-  "entries": 366,
+  "entries": 377,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -892,10 +892,10 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3890119680043332770",
-  "entries": 963,
+  "entries": 986,
   "complete": false,
   "links": "fetched",
-  "fetched": 183,
+  "fetched": 27,
   "downloadable": true
  },
  {
@@ -1058,7 +1058,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3733450486998805728",
-  "entries": 4559,
+  "entries": 4756,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1225,7 +1225,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8358420357808595754",
-  "entries": 570,
+  "entries": 605,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1247,7 +1247,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3054988613439396424",
-  "entries": 1016,
+  "entries": 1017,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1472,7 +1472,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "1061713767402958340",
-  "entries": 249,
+  "entries": 254,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1515,7 +1515,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7004582542854505662",
-  "entries": 298,
+  "entries": 299,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -1592,8 +1592,8 @@
   "nsfw": false,
   "sourceId": "8588684547293952127",
   "entries": 53,
-  "complete": true,
-  "links": "joined",
+  "complete": false,
+  "failed": true,
   "downloadable": true
  },
  {
@@ -1757,7 +1757,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "918989295758523524",
-  "entries": 44145,
+  "entries": 52675,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1768,7 +1768,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "647637185891033517",
-  "entries": 44234,
+  "entries": 52777,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1779,7 +1779,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4541545529482216024",
-  "entries": 24310,
+  "entries": 25125,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1790,7 +1790,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7945033982379409892",
-  "entries": 13074,
+  "entries": 14625,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1902,7 +1902,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "3310562162433401964",
-  "entries": 34395,
+  "entries": 39736,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -1982,7 +1982,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3055889891446984546",
-  "entries": 45410,
+  "entries": 54214,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -2145,7 +2145,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "630837345003448937",
-  "entries": 15400,
+  "entries": 15401,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -2167,7 +2167,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "3395462671769287908",
-  "entries": 21184,
+  "entries": 26985,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -2414,7 +2414,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8953466777316975228",
-  "entries": 7237,
+  "entries": 7269,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3043,7 +3043,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "3436561761894030433",
-  "entries": 3319,
+  "entries": 3346,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3216,10 +3216,10 @@
  {
   "site": "mangadex.org",
   "name": "MangaDex",
-  "lang": "en",
+  "lang": "all",
   "nsfw": true,
-  "sourceId": "2499283573021220255",
-  "entries": 4195,
+  "sourceId": "6404943692147160087",
+  "entries": 5568,
   "complete": false,
   "links": "templated",
   "fetched": 1,
@@ -3310,9 +3310,9 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "6084907896154116083",
-  "entries": 37163,
+  "entries": 38477,
   "complete": false,
-  "failed": true,
+  "links": "joined",
   "downloadable": true
  },
  {
@@ -3422,7 +3422,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4758858684982406533",
-  "entries": 17135,
+  "entries": 19054,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3433,7 +3433,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "5020395055978987501",
-  "entries": 9126,
+  "entries": 12004,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -3628,7 +3628,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "5320360676060919240",
-  "entries": 17696,
+  "entries": 19625,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -3813,7 +3813,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "8358097306709528603",
-  "entries": 1001,
+  "entries": 1201,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -4367,8 +4367,8 @@
   "nsfw": true,
   "sourceId": "3590279382085161370",
   "entries": 12681,
-  "complete": false,
-  "links": "unchecked",
+  "complete": true,
+  "failed": true,
   "downloadable": true
  },
  {
@@ -4520,7 +4520,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4709139914729853090",
-  "entries": 999,
+  "entries": 1196,
   "complete": false,
   "links": "fetched",
   "fetched": 200,
@@ -4552,7 +4552,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "1483013328567191791",
-  "entries": 7022,
+  "entries": 7114,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4595,7 +4595,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "4899971628155084225",
-  "entries": 26567,
+  "entries": 27099,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4606,7 +4606,7 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "7327582601422280123",
-  "entries": 13448,
+  "entries": 13988,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4723,9 +4723,9 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "9165839893600661480",
-  "entries": 18559,
+  "entries": 19954,
   "complete": false,
-  "failed": true,
+  "links": "joined",
   "downloadable": true
  },
  {
@@ -4745,7 +4745,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "2384499981488817067",
-  "entries": 39691,
+  "entries": 43974,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -4927,10 +4927,10 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "2527256034272235453",
-  "entries": 961,
+  "entries": 983,
   "complete": false,
   "links": "fetched",
-  "fetched": 169,
+  "fetched": 24,
   "downloadable": true
  },
  {
@@ -5061,7 +5061,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "8212157560459310944",
-  "entries": 20973,
+  "entries": 20987,
   "complete": true,
   "links": "templated",
   "fetched": 1,
@@ -5320,7 +5320,6 @@
   "entries": 81,
   "complete": true,
   "links": "fetched",
-  "fetched": 2,
   "downloadable": true
  },
  {
@@ -5452,7 +5451,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "6773816792833894188",
-  "entries": 224,
+  "entries": 243,
   "complete": false,
   "links": "joined",
   "downloadable": true
@@ -5518,9 +5517,10 @@
   "lang": "en",
   "nsfw": true,
   "sourceId": "388932303664463452",
-  "entries": 38,
+  "entries": 20,
   "complete": true,
-  "links": "unchecked",
+  "links": "templated",
+  "fetched": 1,
   "downloadable": true
  },
  {
@@ -5713,7 +5713,7 @@
   "sourceId": "298934354390867671",
   "entries": 7750,
   "complete": false,
-  "links": "joined",
+  "failed": true,
   "downloadable": true
  },
  {
@@ -5968,7 +5968,7 @@
   "lang": "en",
   "nsfw": false,
   "sourceId": "9063123408669132087",
-  "entries": 199,
+  "entries": 208,
   "complete": true,
   "links": "joined",
   "downloadable": true
@@ -5980,8 +5980,8 @@
   "nsfw": true,
   "sourceId": "1147556681248758139",
   "entries": 89,
-  "complete": true,
-  "links": "joined",
+  "complete": false,
+  "failed": true,
   "downloadable": true
  },
  {
@@ -6750,7 +6750,7 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "7503768123990313103",
-  "entries": 16047,
+  "entries": 18017,
   "complete": false,
   "links": "templated",
   "fetched": 1,
@@ -6805,9 +6805,9 @@
   "lang": "all",
   "nsfw": true,
   "sourceId": "1928970119194827182",
-  "entries": 2724,
+  "entries": 9927,
   "complete": false,
-  "failed": true,
+  "links": "joined",
   "downloadable": true
  },
  {
